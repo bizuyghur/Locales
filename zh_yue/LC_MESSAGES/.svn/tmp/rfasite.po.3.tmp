@@ -1,0 +1,828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rfasite-snap_20061115\n"
+"POT-Creation-Date: Fri Dec  8 16:27:03 2006\n"
+"PO-Revision-Date: 2007-02-12 16:31-0500\n"
+"Last-Translator: Joshua Edelstein <edelsteinj@rfa.org>\n"
+"Language-Team: RFA Plone CMS <plone@rfa.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: zh-yue\n"
+"Language-Name: Cantonese\n"
+"Preferred-Encodings: utf8\n"
+"Domain: rfasite\n"
+
+#. Default: "English"
+#: e/skins/rfa_retail/main_template.pt:39
+msgid "banner_english"
+msgstr "English Home Page"
+
+#. Default: "Help"
+#: e/skins/rfa_retail/main_template.pt:37
+msgid "banner_help"
+msgstr "幫助"
+
+#. Default: "Text Only"
+#: e/skins/rfa_retail/main_template.pt:41
+msgid "banner_text_only"
+msgstr "純文本版"
+
+#. Default: "About RFA"
+#: e/skins/rfa_retail/main_template.pt:337
+msgid "footer_about_rfa"
+msgstr "自由亞洲電臺介紹"
+
+#. Default: "Broadcasting Board of Governors"
+#: e/skins/rfa_retail/main_template.pt:353
+msgid "footer_board_of_governors"
+msgstr " 广播理事会"
+
+#. Default: "Contact Us"
+#: e/skins/rfa_retail/main_template.pt:349
+#: mobile footer contact us
+#: title of mobile contact us page
+msgid "footer_contact_us"
+msgstr "聯絡我們"
+
+#. Default: "FAQs"
+#: e/skins/rfa_retail/main_template.pt:343
+msgid "footer_faqs"
+msgstr "FAQ"
+
+#. Default: "Jobs"
+#: e/skins/rfa_retail/main_template.pt:340
+msgid "footer_jobs"
+msgstr "工作機會"
+
+#. Default: "Site Map"
+#: e/skins/rfa_retail/main_template.pt:346
+msgid "footer_site_map"
+msgstr "網站導航"
+
+#. Default: "Technical Help"
+#: e/skins/rfa_retail/main_template.pt:334
+#: e/skins/rfa_retail/main_template.pt:356
+msgid "footer_technical_help"
+msgstr "技術服務"
+
+#. Default: "Send"
+#: e/skins/rfa_retail/sendto_form.pt:117
+msgid "send_options"
+msgstr "發送"
+
+#. Default: "full story text"
+#: e/skins/rfa_retail/sendto_form.pt:118
+msgid "full_story_text"
+msgstr "文章全文"
+
+#. Default: "link to story"
+#: e/skins/rfa_retail/sendto_form.pt:119
+msgid "link_to_story"
+msgstr "文章鏈接"
+
+#. Default: "Most viewed stories"
+#: e/skins/rfa_retail/story_main.pt:59
+msgid "most_viewed_stories"
+msgstr "熱門文章"
+
+#. Default: "Most e-mailed stories"
+#: e/skins/rfa_retail/story_main.pt:76
+msgid "most_emailed_stories"
+msgstr "熱郵文章"
+
+#. Default: "Download story audio"
+#: e/skins/rfa/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "聲音下載"
+
+#. Default: "E-mail this story"
+#: e/skins/rfa/story_macros.pt:106
+msgid "story_email"
+msgstr "電郵本文"
+
+#. Default: "Download this story"
+#: e/skins/rfa/story_macros.pt:186
+msgid "download_story"
+msgstr "下載"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "收聽節目"
+
+
+#. Default "Listen to or download the story"
+#: e/skins/rfa_shared/story_macros/storytop
+msgid "story_listen_download_audio"
+msgstr "收聽或下載聲音文件"
+
+#. Default: "Print..."
+#: e/skins/rfa/story_macros.pt:126
+msgid "story_print"
+msgstr "打印本文"
+
+#. Default: "Subscribe to email newsletter"
+#: e/skins/rfa/story_macros.pt:116
+msgid "story_subscribe_newsletter"
+msgstr "訂閲電郵新聞"
+
+#. Default: "Story Tools"
+#: e/skins/rfa/story_macros.pt:77
+msgid "story_tools"
+msgstr "輔助工具"
+
+#. Default: "Email Address"
+#: e/skins/rfa_retail/main_template.pt:302
+msgid "subscribe_email_address"
+msgstr "电邮地址"
+
+#. Default: "Privacy Policy"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_privacypolicy"
+msgstr "保護隱私"
+
+#. Default: "Terms of Use"
+#: e/skins/rfa_retail/main_template.pt:355
+#: Mobile footer terms of use
+msgid "footer_terms_of_use"
+msgstr "使用須知"
+
+#. Default: "Send this page to somebody"
+#: e/skins/rfa_retail/sendto_form.cpt:17
+msgid "heading_send_page_to"
+msgstr "電郵本網頁"
+
+#. Default: "Fill in the email address of your friend to send an email with the address."
+#: e/skins/rfa_retail/sendto_form.cpt:20
+msgid "description_send_page_to"
+msgstr "您的朋友的電郵地址"
+
+#. Default: "Address info"
+#: e/skins/rfa_retail/sendto_form.cpt:34
+msgid "legend_address_info"
+msgstr "地址"
+
+#. Default: "Send to"
+#: e/skins/rfa_retail/sendto_form.cpt:41
+msgid "label_send_to_mail"
+msgstr "收信人"
+
+#. Default: "(Required)"
+#: e/skins/rfa_retail/sendto_form.cpt:45
+msgid "label_required"
+msgstr "（必須填寫）"
+
+#. Default: "The e-mail address to send this link to."
+#: e/skins/rfa_retail/sendto_form.cpt:48
+msgid "help_send_to_mail"
+msgstr "將鏈接發往以下地址"
+
+#. Default: "From"
+#: e/skins/rfa_retail/sendto_form.cpt:68
+msgid "label_send_from"
+msgstr "發信人"
+
+#. Default: "Your email address."
+#: e/skins/rfa_retail/sendto_form.cpt:74
+msgid "help_send_from"
+msgstr "您的電郵地址"
+
+#. Default: "Comment"
+#: e/skins/rfa_retail/sendto_form.cpt:93
+msgid "label_comment"
+msgstr "發表評論"
+
+#. Default: "A comment about this link."
+#: e/skins/rfa_retail/sendto_form.cpt:95
+msgid "help_comment_to_link"
+msgstr "對此鏈接的意見"
+
+#. Default: "Send"
+#: e/skins/rfa_retail/sendto_form.cpt:117
+msgid "label_send"
+msgstr "發送"
+
+#. Default: "Listen to Program Segments"
+#: e/skins/rfa/audioarchive_macros.pt:26
+msgid "archive_listen_to_segments"
+msgstr "分節收聽"
+
+#. Default: "Download"
+#: e/skins/rfa/audioarchive_macros.pt:43
+msgid "archive_download_button"
+msgstr "下載"
+
+#. Default: "Stream Audio"
+#: e/skins/rfa/audioarchive_macros.pt:47
+msgid "archive_stream_button"
+msgstr "收聽節目"
+
+#. Default: "Download Audio Player"
+#: e/skins/rfa/audioarchive_macros.pt:61
+msgid "archive_download_audio_player"
+msgstr "下載播放器"
+
+#. Default: "Related Stories"
+#: e/skins/rfa/story_macros.pt:157
+msgid "story_related_stories"
+msgstr "相關文章"
+
+#. Default: "Subscribe to Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:14
+msgid "heading_subscribe_newsletter"
+msgstr "訂閲電郵新聞"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa_retail/subscribenewsletter.pt:15
+msgid "description_subscribe_newsletter"
+msgstr "接收自由亞洲電臺電郵新聞的郵箱地址"
+
+#. Default: "Your e-mail address"
+#: e/skins/rfa_retail/subscribenewsletter.pt:19
+msgid "label_subscribe_newsletter"
+msgstr "您的電郵信箱"
+
+#. Default: "Search"
+#: e/skins/rfa_retail/main_template.pt:52
+msgid "button_search_site"
+msgstr "搜尋"
+
+#. Default: "Code of Ethics"
+#: e/skins/rfa_retail/main_template.pt:380
+msgid "footer_code_of_ethics"
+msgstr "守則"
+
+#. Default: "Frequencies"
+#: e/skins/rfa_retail/main_template.pt:383
+msgid "footer_frequencies"
+msgstr "頻率"
+
+#. Default: "U.S. International Broadcasting"
+#: e/skins/rfa_retail/main_template.pt:403
+msgid "footer_ibb"
+msgstr "美國國際廣播"
+
+#. Default: "Voice of America"
+#: e/skins/rfa_retail/main_template.pt:407
+msgid "footer_voa"
+msgstr "美國之音粵語部網頁"
+
+#. Default: "http://www.voanews.com"
+#: e/skins/rfa_retail/main_template.pt:406
+msgid "footer_voa_subsite"
+msgstr "http://www.voanews.com/chinese/cantonese.cfm"
+
+#. Default: "Get Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:32
+msgid "subscribe_getnewsletter_button"
+msgstr "訂約新聞"
+
+#. Default: "Listen to Audio"
+#: e/skins/rfa_retail/listennow.pt:18
+msgid "linkto_audioarchive"
+msgstr "收聽節目"
+
+#. Default: "Show Images"
+#: e/skins/rfa_retail/main_template.pt:93
+msgid "banner_show_images"
+msgstr "顯示圖像"
+
+#. Default: "Podcasts"
+#: e/skins/rfa_retail/main_template.pt:375
+msgid "podcast_link"
+msgstr "播客"
+
+#. Default: "RSS Feeds"
+#: e/skins/rfa_retail/main_template.pt:381
+msgid "rss_link"
+msgstr "聚合新聞"
+
+#. Default: "404 - Page Not Found"
+#: e/skins/rfa_retail/main_template.pt:138
+msgid "404_header"
+msgstr "404 – 沒有找到此頁"
+
+#. Default: "Our apologies... the page you're looking for could not be found on our system.	If you followed a link or typed the URL correctly the content may have been moved, deleted or temporarily retracted. Please click the "back" button in your browser or go to our <a href="/english/">homepage</a>. You may also use our search or archive to find RFA content by topic or date."
+#: e/skins/rfa_retail/main_template.pt:139
+msgid "404_message"
+msgstr "很抱歉。我們的資料中沒有您在尋找的網頁。如果您的鏈接或是網址是正確的，這篇文章有可能已經被刪除，轉移或是暫時撤回。請按瀏覽器的“返回”鍵，或者進入我們的主頁。您可以通過自由亞洲電臺網頁上的搜尋功能和資料庫，使用主題或日期查找您所需要的資料。"
+
+#. Default: "Story Archive"
+#: e/skins/rfa_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "文章檔案"
+
+#. Default: "Please use the calendar below to search for articles from RFA's archive. Use the calendar arrows or the year and month pull-down menus to select past months and the calendar to select a specific day. Relevant stories will appear at the right."
+#: e/skins/rfa_retail/story_archive.pt:11
+msgid "story_archive_message"
+msgstr "請使用日曆表進行搜尋。箭頭和滑標可以幫助您選擇年月，然後選擇日子。當日的文章會出現在右手頁面上。"
+
+#. Default: "Select year and month:"
+#: e/skins/rfa_retail/story_archive.pt:21
+msgid "story_archive_select"
+msgstr "選擇日期:"
+
+#. Default: "January"
+#: e/skins/rfa_retail/story_archive.pt:31
+msgid "story_archive_month01"
+msgstr "一月"
+
+#. Default: "February"
+#: e/skins/rfa_retail/story_archive.pt:32
+msgid "story_archive_month02"
+msgstr "二月"
+
+#. Default: "March"
+#: e/skins/rfa_retail/story_archive.pt:33
+msgid "story_archive_month03"
+msgstr "三月"
+
+#. Default: "April"
+#: e/skins/rfa_retail/story_archive.pt:34
+msgid "story_archive_month04"
+msgstr "四月"
+
+#. Default: "May"
+#: e/skins/rfa_retail/story_archive.pt:35
+msgid "story_archive_month05"
+msgstr "五月"
+
+#. Default: "June"
+#: e/skins/rfa_retail/story_archive.pt:36
+msgid "story_archive_month06"
+msgstr "六月"
+
+#. Default: "July"
+#: e/skins/rfa_retail/story_archive.pt:37
+msgid "story_archive_month07"
+msgstr "七月"
+
+#. Default: "August"
+#: e/skins/rfa_retail/story_archive.pt:38
+msgid "story_archive_month08"
+msgstr "八月"
+
+#. Default: "September"
+#: e/skins/rfa_retail/story_archive.pt:39
+msgid "story_archive_month09"
+msgstr "九月"
+
+#. Default: "October"
+#: e/skins/rfa_retail/story_archive.pt:40
+msgid "story_archive_month10"
+msgstr "十月"
+
+#. Default: "November"
+#: e/skins/rfa_retail/story_archive.pt:41
+msgid "story_archive_month11"
+msgstr "十一月"
+
+#. Default: "December"
+#: e/skins/rfa_retail/story_archive.pt:42
+msgid "story_archive_month12"
+msgstr "十二月"
+
+#. Default: "Su"
+#: e/skins/rfa_retail/story_archive.pt:77
+msgid "story_archive_su"
+msgstr "日"
+
+#. Default: "Mo"
+#: e/skins/rfa_retail/story_archive.pt:78
+msgid "story_archive_mo"
+msgstr "一"
+
+#. Default: "Tu"
+#: e/skins/rfa_retail/story_archive.pt:79
+msgid "story_archive_tu"
+msgstr "二"
+
+#. Default: "We"
+#: e/skins/rfa_retail/story_archive.pt:80
+msgid "story_archive_we"
+msgstr "三"
+
+#. Default: "Th"
+#: e/skins/rfa_retail/story_archive.pt:81
+msgid "story_archive_th"
+msgstr "四"
+
+#. Default: "Fr"
+#: e/skins/rfa_retail/story_archive.pt:82
+msgid "story_archive_fr"
+msgstr "五"
+
+#. Default: "Sa"
+#: e/skins/rfa_retail/story_archive.pt:83
+msgid "story_archive_sa"
+msgstr "六"
+
+#. Default: "Results"
+#: e/skins/rfa_retail/story_archive.pt:110
+msgid "story_archive_results"
+msgstr "搜尋結果: "
+
+#. Default: "Search Results"
+#: e/skins/rfa_retail/search.pt:14
+msgid "heading_search_results"
+msgstr "搜尋結果"
+
+#. Default: "${number} items matching your criteria."
+#: e/skins/rfa_retail/search.pt:26
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number}符合你的要求"
+
+#. Default: "No results found."
+#: e/skins/rfa_retail/search.pt:18
+msgid "description_no_results_found"
+msgstr "您的搜尋沒有找到任何結果。"
+
+#. Default: "Next ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:43
+msgid "batch_next_x_items"
+msgstr "下${number}條目"
+
+#. Default: "Previous ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:30
+msgid "batch_previous_x_items"
+msgstr "前${number}條目"
+
+# rfamobile section navigation
+#: Default "Previous"
+msgid "previous"
+msgstr "後退"
+
+#: Default "Next"
+msgid "next"
+msgstr "前進"
+
+#. Default: "Home"
+#: e/skins/rfa_retail/main_template.pt:168
+msgid "subsite_home"
+msgstr "粵語部首頁"
+
+#. Default: "Share this story"
+#: e/skins/rfa/story_macros.pt:160
+msgid "addthis_share"
+msgstr "與朋友分享…"
+
+#. Default: "Radio Free Asia"
+#:
+msgid "radio_free_asia"
+msgstr "自由亞洲電臺"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa/story_macros.pt:152
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = '自由亞洲電臺'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'書簽和共享',more:'更多選擇'};"
+
+
+################################################
+#####                                      #####
+#####   HERE BEGIN THE RFA2 TRANSLATIONS   #####
+#####                                      #####
+################################################
+
+#. Default: "View older stories >>"
+#: e/skins/rfa2_shared/section_macros.pt:65
+msgid "view_older_stories"
+msgstr "查看歷史資料 >>"
+
+#. Default: "Search"
+#: e/skins/rfa2_retail/main_template.pt:177
+msgid "value_search"
+msgstr "搜尋"
+
+#. Default: "E-mail"
+#: e/skins/rfa2_shared/story_macros.pt:135
+msgid "storytool_email"
+msgstr "電郵"
+
+#. Default: "Comment"
+#: e/skins/rfa2_shared/story_macros.pt:130
+msgid "storytool_comment"
+msgstr "評論"
+
+#. Default: "Share"
+#: e/skins/rfa2_shared/story_macros.pt:125
+msgid "storytool_share"
+msgstr "分享"
+
+#. Default: "Print"
+#: e/skins/rfa2_shared/story_macros.pt:120
+msgid "storytool_print"
+msgstr "打印"
+
+#. Default: "Editor's Pick"
+#: e/skins/rfa2_shared/service_macros.pt:170
+msgid "editors_pick"
+msgstr "編輯推薦"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa2_shared/story_macros.pt:268
+msgid "click_here_comment"
+msgstr "發表評論"
+
+#. Default: "Home"
+#: e/skins/rfa2_retail/main_template.pt:196
+msgid "service_home"
+msgstr "主頁"
+
+#. Default: "Audio"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "audio"
+msgstr "音頻"
+
+#. Default: "Video"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "video"
+msgstr "視頻"
+
+#. Default: "Languages"
+#: e/skins/rfa2_retail/footer_lang.pt:17
+msgid "footer_lang"
+msgstr "其他语种"
+
+#. Default: "Listen"
+#: e/skins/rfa2_retail/footer_listen.pt:17
+msgid "footer_listen"
+msgstr "专题与栏目"
+
+#. Default: "Find Us"
+#: e/skins/rfa2_retail/social_media.pt:18
+#: e/skins/rfa2_retail/footer_find_us.pt:17
+msgid "find_us"
+msgstr "在线服务"
+
+#. Default: "About"
+#: e/skins/rfa2_retail/footer_about_us.pt:17
+#: mobile footer 'about us'
+msgid "footer_about"
+msgstr "关于我们"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa2_shared/story_macros.pt:88
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = '自由亞洲電臺'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'書簽和共享',more:'更多選擇'};"
+
+#. Default: "Download story audio"
+#: e/skins/rfa2_shared/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "聲音下載"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa2_shared/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "收聽節目"
+
+#. Default: "Audio Archive"
+#: e/skins/rfa2_retail/audioarchive.pt:30
+msgid "audio_archive"
+msgstr "聲音資料"
+
+#. Default: "Get News Alerts"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:12
+msgid "heading_subscribe_newsletter"
+msgstr "訂閲電郵新聞"
+
+#. Default: "To subscribe to our email news, simply send us your email address."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:15
+msgid "subscribe_message_one"
+msgstr "訂閱粵語部電郵新聞僅需要提供您的電郵地址。"
+
+#. Default: "You will receive occasioinal news updates and press releases."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:19
+msgid "subscribe_message_two"
+msgstr "您將定期收到我們發送的電郵新聞。"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:22
+msgid "description_subscribe_newsletter"
+msgstr "請在此輸入您的電郵地址。"
+
+#. Default: "Enter email address"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:35
+msgid "value_subscriber_email"
+msgstr "請在此輸入您的電郵地址。"
+
+#. Default: "By sending us your email address, you adhere to RFA's <a href='/english/about/terms-of-use.html'>Terms of Use</a>."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:47
+msgid "agree_terms_of_use"
+msgstr "您向我們提交您的電郵信箱意味著您將遵守自由亞洲電台的使用條款。"
+
+#. Default: "Send Us Your News"
+#: e/skins/rfa2_retail/send_news_form.pt:33
+msgid "heading_send_news"
+msgstr "聽眾報料"
+
+#. Default: "We value your reporting.  Tell us the Where, What, When, Who, Why. Share your photos, audio or video with us through MMS or email to contact@rfa.org.  Alternately, send us your news stories and comments using the form below."
+#: e/skins/rfa2_retail/send_news_form.pt:36
+#: mobile send_news_form
+msgid "description_send_news"
+msgstr "感謝您向粵語部提供寶貴的新聞信息。請告訴我們事件發生的時間、地點、起因、經過和誰是當事人。如果您能和我們分享視頻、圖片和聲音資料，你可以通過郵件發送到cnew@rfa.org， 或者 getfreenews@gmail.com，也可以通過QQ和Skype 與我們聯繫。我們的QQ號是1922274257，Skype 用戶名是rfa.cantonese.service 。此外，您也可以使用下面的表格向我們傳送消息。"
+
+#. Default: "Comments"
+#: e/skins/rfa2_retail/send_news_form.pt:55
+msgid "label_comment"
+msgstr "您的評論"
+
+#. Default: "Name"
+#: e/skins/rfa2_retail/send_news_form.pt:71
+#: mobile contact-us form
+msgid "label_name"
+msgstr "您的姓名"
+
+#. Default: "Country"
+#: e/skins/rfa2_retail/send_news_form.pt:87
+msgid "label_country"
+msgstr "您所在的國家"
+
+#. Default: "Enter the text below"
+#: e/skins/rfa2_retail/send_news_form.pt:103
+msgid "label_captcha"
+msgstr "輸入文字"
+
+#. Default: "Send"
+#: e/skins/rfa2_retail/send_news_form.pt:115
+msgid "label_send"
+msgstr "發送"
+
+#. Default: "Story Archive"
+#: e/skins/rfa2_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "文章檔案"
+
+#. Default: "All comments for"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:17
+msgid "all_comments_for"
+msgstr "返回文章"
+
+#. Default: "Add your comment by filling out the form below in plain text. Comments are approved by a moderator and can be edited in accordance with  <a href='/english/about/terms-of-use.html'>RFAs Terms of Use</a>.  Comments will not appear in real time. RFA is not responsible for the content of the postings. Please, be respectful of others' point of view and stick to the facts."
+#: e/skins/rfa2_shared/story_comments_macros.pt:79
+msgid "comments_intro"
+msgstr "請將評論填寫在如下表格中。評論必須符合自由亞洲電台的 《使用條款》， 並經管理員通過後方能顯示。因此，評論將不會在您提交後即時出現。自由亞洲電台對網友評論的內容不負任何責任。敬請各位尊重他人觀點並嚴守事實。"
+
+#. Default: "Thank you for your comment. Comments are approved by a moderator and can be edited in accordance with <a href='/english/about/terms-of-use.html'>RFA's Terms of Use</a>. Comments will not appear in real time."
+#: e/skins/rfa2_shared/story_comments_macros.pt:84
+msgid "comment_confirmation"
+msgstr ""
+
+#. Default: "Name (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:100
+msgid "label_commentor_name"
+msgstr "姓名（可選擇）"
+
+#. Default: "City (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:110
+msgid "label_commentor_city"
+msgstr "所在城市（可選擇）"
+
+#. Default: "Please type the characters you see in the image."
+#: e/skins/rfa2_shared/story_comments_macros.pt:120
+msgid "help_captcha"
+msgstr "請輸入您在圖內看見的字母或數碼。"
+
+#. Default: "Comment (Required)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:146
+msgid "label_comment_body_text"
+msgstr "評論（必須填寫）"
+
+#. Default: "Submit"
+#: e/skins/rfa2_shared/story_comments_macros.pt:160
+msgid "submit_comments_button"
+msgstr "提交"
+
+#. Default: "Anonymous Reader"
+#: e/skins/rfa/story_macros.pt:160
+msgid "anonymous_reader"
+msgstr "匿名遊客"
+
+#. Default: "from"
+#: e/skins/rfa/story_macros.pt:160
+msgid "from_city"
+msgstr "從"
+
+#. Default: "View all comments"
+#: e/skins/rfa/story_macros.pt:160
+msgid "view_all_comments"
+msgstr "查看所有評論"
+
+#. Default: "All Comments for"
+#: e/skins/rfa_retail/discussion_reply_form.cpt:16
+msgid "all_comments_for"
+msgstr "返回文章"
+
+#. Default: "Return to story"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:30
+msgid "return_to_story"
+msgstr "該文章的所有評論"
+
+#. Default: "Please submit a body."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "body_required"
+msgstr "提交評論"
+
+#. Default: "Please type the characters in the image."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "captcha_required"
+msgstr "請輸入圖中字符"
+
+#. Default: "Please submit a text."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "text_required"
+msgstr "發表評論"
+
+#. Default: "Submit"
+#: e/skins/rfa/story_macros.pt:160
+msgid "submit_comments_button"
+msgstr "提交"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa/story_macros.pt:86
+msgid "comments_addyours"
+msgstr "<a href='discussion_reply_form/#commentsbox'>發表評論</a>"
+
+#. Default: "Add a comment by filling out the form below..."
+#: e/skins/rfa/story_comments_macros.pt:77
+msgid "comments_intro"
+msgstr "請將評論填寫在如下表格中。評論必須符合自由亞洲電台的 <a href='http://www.rfa.org/cantonese/about/terms-of-use.html'>《使用條款》，</a> 並經管理員通過後方能顯示。因此，評論將不會在您提交後即時出現。自由亞洲電台對網友評論的內容不負任何責任。敬請各位尊重他人觀點並嚴守事實。"
+
+#. Default: "Your comment has been submitted for moderation, and should appear shortly."
+#: e/skins/rfa/story_comments_macros.pt:51
+msgid "comment_confirmation"
+msgstr "感謝您的評論。所有評論需經管理員通過後方能顯示，管理員有權刪除評論中違反<a href='http://www.rfa.org/cantonese/about/terms-of-use.html'>使用條款</a>的污言穢語。您的評論不會在提交後即時出現，請耐心等候。"
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[本台編輯根據《使用條款》對此評論略作刪節]"
+
+#: rfamobile 'more news' dropdown
+msgid "more_news"
+msgstr "網站欄目"
+
+#: rfamobile social bar
+msgid "follow_us"
+msgstr "關注我們"
+
+#: rfamobile self report
+msgid "self_report_title"
+msgstr "您想提供新聞線索？"
+
+#: rfamobile self report content
+msgid "self_report_content"
+msgstr "將目擊事件發送給我們。"
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» 更多內容"
+
+#: rfamobile hide more
+msgid "hide_more"
+msgstr "« 較少的內容"
+
+#: rfamobile full site
+msgid "rfamobile_fullversion"
+msgstr "完整网站"
+
+#: rfamobile story_main "more from <sectionTitle>"
+msgid "more_stories_from_section"
+msgstr "更多 ${sectionTitle}"
+
+#: rfamobile "multimedia"
+msgid "multimedia"
+msgstr "多媒體"
+
+#: rfamobile story toolbar
+msgid "tools"
+msgstr "工具"
+
+#: rfamobile "back to <section>"
+msgid "backtosection"
+msgstr  "回到 ${sectionTitle}"
+
+#: rfamobile contact us
+msgid "label_subject"
+msgstr "主題"
+
+#: rfamobile contact us
+msgid "label_message"
+msgstr "郵件內容"
+
+#: rfamobile Send us your comments and feedback
+#:  (google translated)
+msgid "contactus_intro"
+msgstr "我們歡迎您的意見和反饋"
+
+#: rfamoble self-report form:
+msgid "required"
+msgstr "必須填寫"
+
+#: rfamobile self-report form:
+msgid "selfreport_terms"
+msgstr "提供新聞線索須知：發布前我們會審閱。注意：並非所有評論都會發表。自由亚洲电台有權在其世界各地的任何媒體中使用評論內容。"
+
+#: Mobapp audioclips.xml
+msgid "daily_broadcast"
+msgstr "廣播節目存檔"

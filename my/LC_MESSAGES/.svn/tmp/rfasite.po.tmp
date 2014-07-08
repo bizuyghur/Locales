@@ -1,0 +1,760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rfasite-snap_20061115\n"
+"POT-Creation-Date: Fri Dec  8 16:27:03 2006\n"
+"PO-Revision-Date: 2007-02-21 18:52-0500\n"
+"Last-Translator: Joshua Edelstein <edelsteinj@rfa.org>\n"
+"Language-Team: RFA Plone CMS <plone@rfa.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: my\n"
+"Language-Name: Burmese\n"
+"Preferred-Encodings: utf8\n"
+"Domain: rfasite\n"
+
+#. Default: "English"
+#: e/skins/rfa_retail/main_template.pt:39
+msgid "banner_english"
+msgstr "English Home Page"
+
+#. Default: "Help"
+#: e/skins/rfa_retail/main_template.pt:37
+msgid "banner_help"
+msgstr "နည္းလမ္းအကူ"
+
+#. Default: "Text Only"
+#: e/skins/rfa_retail/main_template.pt:41
+msgid "banner_text_only"
+msgstr "စာသားသက္သက္"
+
+#. Default: "About RFA"
+#: e/skins/rfa_retail/main_template.pt:337
+msgid "footer_about_rfa"
+msgstr "RFA အေၾကာင္း"
+
+#. Default: "Broadcasting Board of Governors"
+#: e/skins/rfa_retail/main_template.pt:353
+msgid "footer_board_of_governors"
+msgstr "အုပ္ခ်ဳပ္ေရး ဘုတ္အဖြဲ႕ဝင္မ်ား"
+
+#. Default: "Contact Us"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_contact_us"
+msgstr "ဆက္သြယ္ရန္"
+
+#. Default: "FAQs"
+#: e/skins/rfa_retail/main_template.pt:343
+msgid "footer_faqs"
+msgstr "ေမးေလ့ရွိေသာ ေမးခြန္းမ်ား"
+
+#. Default: "Jobs"
+#: e/skins/rfa_retail/main_template.pt:340
+msgid "footer_jobs"
+msgstr "အလုပ္ေခၚယူျခင္း"
+
+#. Default: "Site Map"
+#: e/skins/rfa_retail/main_template.pt:346
+msgid "footer_site_map"
+msgstr "ဝက္ဘ္ဆိုက္၏ပံုစံ"
+
+#. Default: "Technical Help"
+#: e/skins/rfa_retail/main_template.pt:334
+#: e/skins/rfa_retail/main_template.pt:356
+msgid "footer_technical_help"
+msgstr "နည္းလမ္းအေထာက္အကူ"
+
+#. Default: "Send"
+#: e/skins/rfa_retail/sendto_form.pt:117
+msgid "send_options"
+msgstr "ပို႔ရန္ ႏွိပ္ပါ"
+
+#. Default: "full story text"
+#: e/skins/rfa_retail/sendto_form.pt:118
+msgid "full_story_text"
+msgstr "သတင္းစာသား အဴပည့္အစံု။"
+
+#. Default: "link to story"
+#: e/skins/rfa_retail/sendto_form.pt:119
+msgid "link_to_story"
+msgstr "သတင္းခဵိတ္ဆက္ရန္။"
+
+#. Default: "Download story audio"
+#: e/skins/rfa/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "အသံဖိုင္ယူရန"
+
+#. Default: "E-mail this story"
+#: e/skins/rfa/story_macros.pt:106
+msgid "story_email"
+msgstr "အီးေမးလ္ပို႔ရန္"
+
+#. Default: "Download this story"
+#: e/skins/rfa/story_macros.pt:186
+msgid "download_story"
+msgstr "ဤအေၾကာင္းကို ရယူရန္"
+
+#. Default: "Most viewed stories"
+#: e/skins/rfa_retail/story_main.pt:56
+msgid "most_viewed_stories"
+msgstr "ဖတ္႟ႁသူအမဵားဆံုး သတင္းမဵား။"
+
+#. Default: "Most e-mailed stories"
+#: e/skins/rfa_retail/story_main.pt:56
+msgid "most_emailed_stories"
+msgstr "အီးေမးလ္ပိုႛသူအမဵားဆံုး သတင္းမဵား။"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "နားေထာင္ရန္"
+
+#. Default "Listen to or download the story"
+#: e/skins/rfa_shared/story_macros/storytop
+msgid "story_listen_download_audio"
+msgstr "နားဆင္ဖို႔ (သို႔) ေဒါင္းလုတ္ဖို႔ ႏွိပ္ပါ"
+
+#. Default: "Print..."
+#: e/skins/rfa/story_macros.pt:126
+msgid "story_print"
+msgstr "ပံုႏွိပ္ရန္..."
+
+#. Default: "Subscribe to email newsletter"
+#: e/skins/rfa/story_macros.pt:116
+msgid "story_subscribe_newsletter"
+msgstr "သတင္းလႊာမွာယူရန္"
+
+#. Default: "Story Tools"
+#: e/skins/rfa/story_macros.pt:77
+msgid "story_tools"
+msgstr "ဤသတင္းႏွင့္ပတ္သက္၍"
+
+#. Default: "Email Address"
+#: e/skins/rfa_retail/main_template.pt:302
+msgid "subscribe_email_address"
+msgstr "အီးေမးလ္လိပ္စာ"
+
+#. Default: "Privacy Policy"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_privacypolicy"
+msgstr "ကိုယ္ေရးကိစၥဆိုင္ရာ မူဝါဒ"
+
+#. Default: "Terms of Use"
+#: e/skins/rfa_retail/main_template.pt:355
+msgid "footer_terms_of_use"
+msgstr "အသံုးျပဳရာတြင္ လိုက္နာရန္"
+
+#. Default: "Send this page to somebody"
+#: e/skins/rfa_retail/sendto_form.cpt:17
+msgid "heading_send_page_to"
+msgstr "ဤစာမ်က္ႏွာကို တစ္ဦးဦးထံ ရွယ္ရန္"
+
+#. Default: "Fill in the email address of your friend to send an email with the address."
+#: e/skins/rfa_retail/sendto_form.cpt:20
+msgid "description_send_page_to"
+msgstr "ပို႔ေပးရမည့္သူရဲ့ အီးေမးလ္ကို ျဖည့္ေပးပါ"
+
+#. Default: "Address info"
+#: e/skins/rfa_retail/sendto_form.cpt:34
+msgid "legend_address_info"
+msgstr "လိပ္စာအခ်က္အလက"
+
+#. Default: "Send to"
+#: e/skins/rfa_retail/sendto_form.cpt:41
+msgid "label_send_to_mail"
+msgstr "ပို႔ေပးရမည့္ အီးေမးလ္လိပ္စာ"
+
+#. Default: "(Required)"
+#: e/skins/rfa_retail/sendto_form.cpt:45
+msgid "label_required"
+msgstr "(မျဖည့္မေန ျဖည့္ရပါမည္။)"
+
+#. Default: "The e-mail address to send this link to."
+#: e/skins/rfa_retail/sendto_form.cpt:48
+msgid "help_send_to_mail"
+msgstr "ဤစာမ်က္ႏွာကို ပို႔ေပးရမည့္ အီးေမးလ္လိပ္စာ။"
+
+#. Default: "From"
+#: e/skins/rfa_retail/sendto_form.cpt:68
+msgid "label_send_from"
+msgstr "ပို႔ေပးသူ"
+
+#. Default: "Your email address."
+#: e/skins/rfa_retail/sendto_form.cpt:74
+msgid "help_send_from"
+msgstr "သင္၏အီးေမးလ္ လိပ္စာ"
+
+#. Default: "A comment about this link."
+#: e/skins/rfa_retail/sendto_form.cpt:95
+msgid "help_comment_to_link"
+msgstr "ဤစာမ်က္ႏွာႏွင့္ပတ္သက္၍ ထင္ျမင္ယူဆခ်က္။"
+
+#. Default: "Listen to Program Segments"
+#: e/skins/rfa/audioarchive_macros.pt:26
+msgid "archive_listen_to_segments"
+msgstr "အခဵိန္ပိုင္းအလိုက္ ထုတ္လၿင့္ခဵက္မဵား နားေထာင္ရန္"
+
+#. Default: "Download"
+#: e/skins/rfa/audioarchive_macros.pt:43
+msgid "archive_download_button"
+msgstr "Download"
+
+#. Default: "Stream Audio"
+#: e/skins/rfa/audioarchive_macros.pt:47
+msgid "archive_stream_button"
+msgstr "အသံတိုက္႟ိုက္နားေထာင္ရန္"
+
+#. Default: "Download Audio Player"
+#: e/skins/rfa/audioarchive_macros.pt:61
+msgid "archive_download_audio_player"
+msgstr "Audio Player ရယူရန္"
+
+#. Default: "Related Stories"
+#: e/skins/rfa/story_macros.pt:157
+msgid "story_related_stories"
+msgstr "ဆက္ႏြယ္ေသာသတင္းမ်ား"
+
+#. Default: "Subscribe to Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:14
+msgid "heading_subscribe_newsletter"
+msgstr "သတင္းလၿာမႀာဳကားရန္"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa_retail/subscribenewsletter.pt:15
+msgid "description_subscribe_newsletter"
+msgstr "RFA သတင္းမဵား ရယူလိုလ႖င္ သင္၏ အီးေမးလ္လိပ္စာကို ဴဖည့္ပၝ။"
+
+#. Default: "Your e-mail address"
+#: e/skins/rfa_retail/subscribenewsletter.pt:19
+msgid "label_subscribe_newsletter"
+msgstr "သင္၏ အီးေမးလ္လိပ္စာ"
+
+#. Default: "Search"
+#: e/skins/rfa_retail/main_template.pt:52
+msgid "button_search_site"
+msgstr "ရွာေဖြရန္"
+
+#. Default: "Code of Ethics"
+#: e/skins/rfa_retail/main_template.pt:380
+msgid "footer_code_of_ethics"
+msgstr "လိုက္နာရမည့္ က်င့္ဝတ္မ်ား"
+
+#. Default: "Frequencies"
+#: e/skins/rfa_retail/main_template.pt:383
+msgid "footer_frequencies"
+msgstr "အသံလိႈင္းမ်ား"
+
+#. Default: "U.S. International Broadcasting"
+#: e/skins/rfa_retail/main_template.pt:403
+msgid "footer_ibb"
+msgstr "အေမရိကန္ ႏိုင္ငံတကာ ထုတ္လႊင့္မႈ"
+
+#. Default: "Voice of America"
+#: e/skins/rfa_retail/main_template.pt:407
+msgid "footer_voa"
+msgstr "ဗြီအိုေအ"
+
+#. Default: "http://www.voanews.com"
+#: e/skins/rfa_retail/main_template.pt:406
+msgid "footer_voa_subsite"
+msgstr "http://www.voanews.com/burmese/"
+
+#. Default: "Get Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:32
+msgid "subscribe_getnewsletter_button"
+msgstr "သတင္းလႊာမွာယူရန္ႏွိပ္ပါ"
+
+#. Default: "Listen to Audio"
+#: e/skins/rfa_retail/listennow.pt:18
+msgid "linkto_audioarchive"
+msgstr "နားေထာင္ရန္"
+
+#. Default: "Show Images"
+#: e/skins/rfa_retail/main_template.pt:93
+msgid "banner_show_images"
+msgstr "႐ုပ္ပံုမ်ားပါ ၾကည့္ရန္"
+
+#. Default: "Podcasts"
+#: e/skins/rfa_retail/main_template.pt:375
+msgid "podcast_link"
+msgstr "ေပါ့ဒ္ကတ္စ္"
+
+#. Default: "RSS Feeds"
+#: e/skins/rfa_retail/main_template.pt:381
+msgid "rss_link"
+msgstr "RSS"
+
+#. Default: "404 - Page Not Found"
+#: e/skins/rfa_retail/main_template.pt:138
+msgid "404_header"
+msgstr "(404) စာမ်က္ႏွာရွာမေတြ႕ပါ။"
+
+#. Default: "Our apologies... the page you're looking for could not be found on our system.	If you followed a link or typed the URL correctly the content may have been moved, deleted or temporarily retracted. Please click the "back" button in your browser or go to our <a href="/english/">homepage</a>. You may also use our search or archive to find RFA content by topic or date."
+#: e/skins/rfa_retail/main_template.pt:139
+msgid "404_message"
+msgstr "Our apologies... the page you're looking for could not be found on our system.	If you followed a link or typed the URL correctly the content may have been moved, deleted or temporarily retracted. Please click the \"back\" button in your browser or go to our <a href=\"/english/\">homepage</a>. You may also use our search or archive to find RFA content by topic or date.သင္ရွာေဖြေနေသာ စာမ်က္ႏွာသည္ ကြ်ႏု္ပ္တို႔ ကြန္ပ်ဴတာ စနစ္ထဲမွာ မရွိပါ။ အကယ္၍ link တခုကို ႏွိပ္သည္ျဖစ္ေစ၊ သို႔မဟုတ္ URL ကို မွန္ကန္စြာ ႐ိုက္လ်က္သားႏွင့္ ျဖစ္ေစ၊ ဤစာမ်က္ႏွာကို မေတြ႕ရွိပါက ၎အား အျခားတေနရာသို႔ ေ႐ႊ႕ေျပာင္းထားျခင္း၊ "
+
+#. Default: "Please use the calendar below to search for articles from RFA's archive. Use the calendar arrows or the year and month pull-down menus to select past months and the calendar to select a specific day. Relevant stories will appear at the right."
+#: e/skins/rfa_retail/story_archive.pt:11
+msgid "story_archive_message"
+msgstr "RFA ၏ သိုမွီးေရးစနစ္ရွိ သတင္းႏွင့္ ေဆာင္းပါးမ်ားကို ရွာေဖြရန္ ေအာက္ရွိ ျပကၡဒိန္ကို အသံုးျပဳပါ။ ျပကၡဒိန္မွ ျမားကို အသံုးျပဳ၍ျဖစ္ေစ၊ ခုႏွစ္ႏွင့္လ စာရင္းမွ ျဖစ္ေစ၊ ယခင္ ၿပီးခဲ့ေသာ လမ်ားသို႔ ျပန္သြားၿပီး အလိုရွိေသာ ေန႔ရက္ကို ေ႐ြးခ်ယ္ႏိုင္ပါသည္။ ကိုက္ညီေသာ သတင္းႏွင့္ ေဆာင္းပါးမ်ားသည္ လက္ယာဖက္တြင္ ေပၚလာပါမည္။"
+
+#. Default: "Select year and month:"
+#: e/skins/rfa_retail/story_archive.pt:21
+msgid "story_archive_select"
+msgstr "ခုႏွစ္ႏွင့္ လကို ေ႐ြးခ်ယ္ပါ။"
+
+#. Default: "January"
+#: e/skins/rfa_retail/story_archive.pt:31
+msgid "story_archive_month01"
+msgstr "ဇန္နဝါရီ"
+
+#. Default: "February"
+#: e/skins/rfa_retail/story_archive.pt:32
+msgid "story_archive_month02"
+msgstr "ေဖေဖာ္ဝါရီ"
+
+#. Default: "March"
+#: e/skins/rfa_retail/story_archive.pt:33
+msgid "story_archive_month03"
+msgstr "မတ္"
+
+#. Default: "April"
+#: e/skins/rfa_retail/story_archive.pt:34
+msgid "story_archive_month04"
+msgstr "ဧၿပီ"
+
+#. Default: "May"
+#: e/skins/rfa_retail/story_archive.pt:35
+msgid "story_archive_month05"
+msgstr "ေမ"
+
+#. Default: "June"
+#: e/skins/rfa_retail/story_archive.pt:36
+msgid "story_archive_month06"
+msgstr "ဇြန္"
+
+#. Default: "July"
+#: e/skins/rfa_retail/story_archive.pt:37
+msgid "story_archive_month07"
+msgstr "ဇူလိုင္"
+
+#. Default: "August"
+#: e/skins/rfa_retail/story_archive.pt:38
+msgid "story_archive_month08"
+msgstr "ၾသဂုတ္"
+
+#. Default: "September"
+#: e/skins/rfa_retail/story_archive.pt:39
+msgid "story_archive_month09"
+msgstr "စက္တင္ဘာ"
+
+#. Default: "October"
+#: e/skins/rfa_retail/story_archive.pt:40
+msgid "story_archive_month10"
+msgstr "ေအာက္တိုဘာ"
+
+#. Default: "November"
+#: e/skins/rfa_retail/story_archive.pt:41
+msgid "story_archive_month11"
+msgstr "ႏိုဝင္ဘာ"
+
+#. Default: "December"
+#: e/skins/rfa_retail/story_archive.pt:42
+msgid "story_archive_month12"
+msgstr "ဒီဇင္ဘာ"
+
+#. Default: "Su"
+#: e/skins/rfa_retail/story_archive.pt:77
+msgid "story_archive_su"
+msgstr "CN"
+
+#. Default: "Results"
+#: e/skins/rfa_retail/story_archive.pt:110
+msgid "story_archive_results"
+msgstr "ရႀာေဖၾေတၾႚရႀိခဵက္မဵား။"
+
+#. Default: "Search Results"
+#: e/skins/rfa_retail/search.pt:14
+msgid "heading_search_results"
+msgstr "ရႀာေဖၾေတၾႚရႀိခဵက္မဵား။"
+
+#. Default: "${number} items matching your criteria."
+#: e/skins/rfa_retail/search.pt:26
+msgid "batch_x_items_matching_your_criteria"
+msgstr "အလိုရႀိေသာသတ္မႀတ္မဵားႎႀင့္ ကိုက္ညီသည့္အရာမဵား။ ${number}"
+
+# previous
+msgid "previous"
+msgstr "ယခင္"
+
+# next (mobile)
+msgid "next"
+msgstr "ေနာက္စာမ်က္ႏွာသုိ႔"
+
+#. Default: "Next ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:43
+msgid "batch_next_x_items"
+msgstr "ေနာက္ ${number} ခု။"
+
+#. Default: "Previous ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:30
+msgid "batch_previous_x_items"
+msgstr "ယခင္ ${number} ခု။"
+
+#. Default: "Home"
+#: e/skins/rfa_retail/main_template.pt:168
+msgid "subsite_home"
+msgstr "ဴမန္မာဌာန"
+
+#. Default: "Share this story"
+#: e/skins/rfa/story_macros.pt:160
+msgid "addthis_share"
+msgstr "ဤအေဳကာင္းကို မ႖ေဝရန္"
+
+<<<<<<< .working
+#. Default: "Radio Free Asia"
+#:
+msgid "radio_free_asia"
+msgstr "လၾတ္လပ္တဲ့ အာရႀအသံ"
+
+=======
+#. Default: "Radio Free Asia"
+#: 
+msgid "radio_free_asia"
+msgstr "လၾတ္လပ္တဲ့ အာရႀအသံ"
+
+>>>>>>> .merge-right.r5583
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa/story_macros.pt:152
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'လၾတ္လပ္တဲ့ အာရႀအသံ'; addthis_options = 'facebook, myspace, multiply, twitter, google, digg, reddit, newsvine, ask, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'Bookmark & Share',more:'အဴခား …'};"
+
+################################################
+#####                                      #####
+#####   HERE BEGIN THE RFA2 TRANSLATIONS   #####
+#####                                      #####
+################################################
+
+#. Default: "View older stories >>"
+#: e/skins/rfa2_shared/section_macros.pt:65
+msgid "view_older_stories"
+msgstr "အေစာပိုင္းသတင္း >>"
+
+#. Default: "Search"
+#: e/skins/rfa2_retail/main_template.pt:177
+msgid "value_search"
+msgstr "ရွာေဖြရန္"
+
+#. Default: "E-mail"
+#: e/skins/rfa2_shared/story_macros.pt:135
+msgid "storytool_email"
+msgstr "အီးေမးလ္"
+
+#. Default: "Comment"
+#: e/skins/rfa2_shared/story_macros.pt:130
+msgid "storytool_comment"
+msgstr "မွတ္ခ်က္ေပးပါ"
+
+#. Default: "Share"
+#: e/skins/rfa2_shared/story_macros.pt:125
+msgid "storytool_share"
+msgstr "ရွယ္ပါ"
+
+#. Default: "Print"
+#: e/skins/rfa2_shared/story_macros.pt:120
+msgid "storytool_print"
+msgstr "ပံုႏွိပ္ပါ"
+
+#. Default: "Editor's Pick"
+#: e/skins/rfa2_shared/service_macros.pt:170
+msgid "editors_pick"
+msgstr "အယ္ဒီတာ့ အၾကိဳက္"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa2_shared/story_macros.pt:268
+msgid "click_here_comment"
+msgstr "မွတ္ခ်က္ေပးပို႔ရန္ ဒီမွာ ႏွိပ္ပါ"
+
+#. Default: "Home"
+#: e/skins/rfa2_retail/main_template.pt:196
+msgid "service_home"
+msgstr "ျမန္မာဌာန"
+
+#. Default: "Audio"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "audio"
+msgstr "အသံ"
+
+#. Default: "Video"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "video"
+msgstr "ဗီဒီယို"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa2_shared/story_macros.pt:88
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'လၾတ္လပ္တဲ့ အာရႀအသံ'; addthis_options = 'facebook, myspace, multiply, twitter, google, digg, reddit, newsvine, ask, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'Bookmark & Share',more:'အဴခား …'};"
+
+#. Default: "Download story audio"
+#: e/skins/rfa2_shared/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "အသံဖိုင္ယူရန္"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa2_shared/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "နားေထာင္ရန္"
+
+#. Default: "Audio Archive"
+#: e/skins/rfa2_retail/audioarchive.pt:30
+msgid "audio_archive"
+msgstr "ေနႛစဥ္ အသံလၿင့္အစီအစဥ္မဵား နားဆင္ရန္"
+
+#. Default: "Get News Alerts"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:12
+msgid "heading_subscribe_newsletter"
+msgstr "ေနာက္ဆံုး သတင္းမ်ား"
+
+#. Default: "To subscribe to our email news, simply send us your email address."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:15
+msgid "subscribe_message_one"
+msgstr "RFA အီးေမးလ္ သတင္းမ်ား ရယူရန္ သင့္ အီးေမးလ္ လိပ္စာေပးပါ "
+
+#. Default: "You will receive occasioinal news updates and press releases."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:19
+msgid "subscribe_message_two"
+msgstr " ေနာက္ဆက္တြဲသတင္း၊ ထုတ္ျပန္ခ်က္မ်ား အခါအားေလွ်ာ္စြာ ပို႔ေပးမည္"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:22
+msgid "description_subscribe_newsletter"
+msgstr "RFA ေနာက္ဆံုး သတင္းမ်ား ရယူရန္ သင့္ အီးေမးလ္ ထည့္ေပးပါ "
+
+#. Default: "Enter email address"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:35
+msgid "value_subscriber_email"
+msgstr ""
+
+#. Default: "By sending us your email address, you adhere to RFA's <a href='/english/about/terms-of-use.html'>Terms of Use</a>."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:47
+msgid "agree_terms_of_use"
+msgstr "သင့္အီးေမးလ္ ေပးျခင္းျဖင့္ RFA စည္းမ်ဥ္းမ်ားကို လက္ခံရမည္"
+
+#. Default: "Send Us Your News"
+#: e/skins/rfa2_retail/send_news_form.pt:33
+msgid "heading_send_news"
+msgstr "သင္တို႕ သတင္းမ်ားလဲ ေပးပို႔နိုင္သည္"
+
+#. Default: "We value your reporting.  Tell us the Where, What, When, Who, Why. Share your photos, audio or video with us through MMS or email to contact@rfa.org.  Alternately, send us your news stories and comments using the form below."
+#: e/skins/rfa2_retail/send_news_form.pt:36
+msgid "description_send_news"
+msgstr "သတင္းေပးပို႔တာကို တန္ဖိုးထားပါသည္။ ဘယ္မွာ၊ ဘယ္တုံးက ၊ ဘယ္သူ ဘာျဖစ္တယ္၊ ဘာေၾကာင့္ျဖစ္တယ္ ဆိုတာေတြ ေျပာပါ။ ဓါတ္ပံု အသံ ဗီဒီယို ရွိရင္လဲ contact@rfa.org ကို ပို႔ေပးပါ။ ဒါမွ မဟုတ္ ေအာက္က ပံုစံ ကို သံုးျပီး သတင္းမ်ား၊ ကြန္မင့္မ်ား ေပးပါ။"
+
+#. Default: "Comments"
+#: e/skins/rfa2_retail/send_news_form.pt:55
+msgid "label_comment"
+msgstr "ကြန္မင့္မ်ား"
+
+#. Default: "Name"
+#: e/skins/rfa2_retail/send_news_form.pt:71
+msgid "label_name"
+msgstr "သင့္နာမည္"
+
+#. Default: "Country"
+#: e/skins/rfa2_retail/send_news_form.pt:87
+msgid "label_country"
+msgstr "သင့္နိုင္ငံ"
+
+#. Default: "Enter the text below"
+#: e/skins/rfa2_retail/send_news_form.pt:103
+msgid "label_captcha"
+msgstr "အာက္မွာ စာရိုက္ပါ"
+
+#. Default: "Send"
+#: e/skins/rfa2_retail/send_news_form.pt:115
+msgid "label_send"
+msgstr "ပို႔ပါ"
+
+#. Default: "Story Archive"
+#: e/skins/rfa2_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "သတင္းႏွင့္ ေဆာင္းပါးမ်ား သုိမွီးေရးစနစ္"
+
+#. Default: "All comments for"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:17
+msgid "all_comments_for"
+msgstr "ယခုသတင္းအတြက္ မွတ္ခ်က္အားလံုးကို ဖတ္႐ႈန္ "
+
+#. Default: "Add your comment by filling out the form below in plain text. Comments are approved by a moderator and can be edited in accordance with  <a href='/english/about/terms-of-use.html'>RFAs Terms of Use</a>.  Comments will not appear in real time. RFA is not responsible for the content of the postings. Please, be respectful of others' point of view and stick to the facts."
+#: e/skins/rfa2_shared/story_comments_macros.pt:79
+msgid "comments_intro"
+msgstr "မွတ္ခ်က္မ်ားကုိ ေအာက္ပါ ပုံစံတြင္ ေရးသားႏုိင္ပါသည္။ RFA <a href='http://www.rfa.org/burmese/about/terms-of-use.html'>၏ အသုံးျပဳျခင္းဆုိင္ရာ စည္းမ်ဥ္းစည္းကမ္းမ်ားႏွင့္ အညီ</a> လုိအပ္လွ်င္ တည္းျဖတ္ျပီး ေဖာ္ျပပါမည္။ မွတ္ခ်က္မ်ားကုိ ေရးျပီးျပီးခ်င္း ခ်က္ျခင္း ျမင္ရမွာ မဟုတ္ပါ။ တင္ျပထားေသာ မွတ္ခ်က္ပါ အေၾကာင္းအရာမ်ား အတြက္ RFA မွာ တာ၀န္မရွိပါ။ ေက်းဇူးျပဳ၍ တျခား မွတ္ခ်က္ေရးသူမ်ား၏ အျမင္ကုိ ေလးစားျပီး အေၾကာင္းအရာကုိသာ အဓိကထား ေရးသားေစလုိပါသည္။"
+
+#. Default: "Name (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:100
+msgid "label_commentor_name"
+msgstr "အမည္ (မေဖာ္ျပလွ်င္လည္းရပါသည္။) "
+
+#. Default: "City (Optional) "
+#: e/skins/rfa2_shared/story_comments_macros.pt:110
+msgid "label_commentor_city"
+msgstr "ေနရပ္ (မေဖာ္ျပလွ်င္လည္းရပါသည္။)"
+
+#. Default: "Please type the characters you see in the image."
+#: e/skins/rfa2_shared/story_comments_macros.pt:120
+msgid "help_captcha"
+msgstr "ပံုမွာ ျမင္ရသည့္ စာလံုးမ်ားအတိုင္း ထည့္သြင္းေပးရပါမည္။"
+
+#. Default: "Comment (Required)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:146
+msgid "label_comment_body_text"
+msgstr "မိမိ၏မွတ္ခ်က္ (မေဖာ္ျပ၍မရပါ။)"
+
+#. Default: "Submit"
+#: e/skins/rfa2_shared/story_comments_macros.pt:160
+msgid "submit_comments_button"
+msgstr "ေပးပို႔ရန"
+
+#. Default: "Anonymous Reader"
+#: e/skins/rfa/story_macros.pt:160
+msgid "anonymous_reader"
+msgstr "အမည္မေဖာ္လိုသူ"
+
+#. Default: "from"
+#: e/skins/rfa/story_macros.pt:160
+msgid "from_city"
+msgstr "ေနရပ္-"
+
+#. Default: "View all comments"
+#: e/skins/rfa/story_macros.pt:160
+msgid "view_all_comments"
+msgstr "မွတ္ခ်က္အားလံုးကို ဖတ္႐ႈရန္"
+
+#. Default: "All Comments for"
+#: e/skins/rfa_retail/discussion_reply_form.cpt:16
+msgid "all_comments_for"
+msgstr "ယခုသတင္းအတြက္ မွတ္ခ်က္အားလံုးကို ဖတ္႐ႈန္"
+
+#. Default: "Return to story"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:30
+msgid "return_to_story"
+msgstr "မူလသတင္းသိုႛ ဴပန္သၾားရန္"
+
+#. Default: "Your comment has been submitted for moderation, and should appear shortly. "
+#/rfa2_shared/story_comments_macros.pt:84
+msgid "comment_confirmation"
+msgstr "မွတ္ခ်က္ေရးသည့္အတြက္ ေက်းဇူးတင္ပါသည္။ RFA <a href='http://www.rfa.org/burmese/about/terms-of-use.html'>၏ အသုံးျပဳျခင္းဆုိင္ရာ စည္းမ်ဥ္းစည္းကမ္းမ်ားႏွင့္ အညီ</a> လုိအပ္လွ်င္ တည္းျဖတ္ျပီး ေဖာ္ျပပါမည္။ မွတ္ခ်က္မ်ားကုိ ေရးျပီးျပီးခ်င္း ခ်က္ျခင္း ျမင္ရမွာ မဟုတ္ပါ။"
+
+#. Default: "Please type the characters you see in the image. "
+#: e/skins/rfa/story_comments_macros.pt:90
+msgid "captcha_required"
+msgstr "ပံုမွာ ျမင္ရသည့္ စာလံုးမ်ားကို ႐ိုက္ထည့္ေပးပါ"
+
+#. Default: "Please submit a body."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "body_required"
+msgstr "စာသားမ်ားကို ေပးပို႔ပါ"
+
+#. Default: "Please submit a text."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "text_required"
+msgstr "သင့္မွတ္ခ်က္ကို ေပးပို႔ရန္ ဤေနရာကို ႏွိပ္ပါ"
+<<<<<<< .working
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[ဤမွတ္ခ်က္အား လြတ္လပ္တဲ့အာရွအသံ၏ အသုံးျပဳခြင့္ စည္းမ်ဥ္းစည္းကမ္းမ်ားအရ အယ္ဒီတာက တည္းျဖတ္ထားပါသည္။]"
+
+#:mobile morenews dropdown
+msgid "more_news"
+msgstr "အစီအစဥ္မ်ား"
+
+#: rfamobile social bar
+#msgid "follow_us"
+#msgstr ""
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» အျပည့္အစုံ"
+
+#: rfamobile hide more
+#XXX INCORRECT!
+msgid "hide_more"
+msgstr "« အျပည့္အစုံ"
+
+#: skins/rfa_mobile self-report
+msgid "self_report_title"
+msgstr "သတင္းေပးပို႔ဖို႔ ရွိပါသလား။"
+
+#: skins/rfa_mobile self-report
+msgid "self_report_content"
+msgstr "မိမိသိထားသည့္ သတင္းရွိပါက အာရ္အက္ဖ္ေအထံ ေပးပို႔ပါ။"
+
+#: rfamobile self-report terms of use
+msgid "selfreport_terms"
+msgstr "ဤပံုစံကို အသံုးျပဳလွ်င္ ေအာက္ပါအခ်က္မ်ားကို သေဘာၿပီးျဖစ္သည္ဟု မွတ္ယူပါသည္။လူႀကီးမင္း၏ အၾကံျပဳတင္ျပခ်က္မ်ားကို အင္တာနက္စာမ်က္ႏွာေပၚတြင္ မေဖာ္ျပခင္ စိစစ္ တည္းျဖတ္ပါမည္။ အႀကံျပဳတင္ျပခ်က္အားလံုးကို ေဖာ္ျပမည္ မဟုတ္ပါ။ လူႀကီးမင္း၏ ေဝဖန္အၾကံေပးခ်က္မ်ားကို အာရ္အက္ဖ္ေအ အေနျဖင့္ အသံုးျပဳခြင့္ရွိပါသည္။"
+
+#: rfamobile '* required'   (seems redundant with all the 'required' id's above, but it's different.
+msgid "required"
+msgstr "လိုအပ္သည္။"
+
+#: rfamobile link to full site
+msgid "rfamobile_fullversion"
+msgstr "ဆိုက္တခုလံုးသို႔"
+
+#: rfamobile story page 'back to section'
+msgid "backtosection"
+msgstr "ေနာက္သို႔ ${sectionTitle}"
+
+#: Mobapp audioclips.xml
+msgid "daily_broadcast"
+msgstr "Daily Broadcast"=======
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[ဤမွတ္ခ်က္အား လြတ္လပ္တဲ့အာရွအသံ၏ အသုံးျပဳခြင့္ စည္းမ်ဥ္းစည္းကမ္းမ်ားအရ အယ္ဒီတာက တည္းျဖတ္ထားပါသည္။]"
+
+#:mobile morenews dropdown
+msgid "more_news"
+msgstr "အစီအစဥ္မ်ား"
+
+#: rfamobile social bar
+#msgid "follow_us"
+#msgstr ""
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» အျပည့္အစုံ"
+
+#: rfamobile hide more
+#XXX INCORRECT!
+msgid "hide_more"
+msgstr "« အျပည့္အစုံ"
+
+#: skins/rfa_mobile self-report
+msgid "self_report_title"
+msgstr "သတင္းေပးပို႔ဖို႔ ရွိပါသလား။"
+
+#: skins/rfa_mobile self-report
+msgid "self_report_content"
+msgstr "မိမိသိထားသည့္ သတင္းရွိပါက အာရ္အက္ဖ္ေအထံ ေပးပို႔ပါ။"
+
+#: rfamobile self-report terms of use
+msgid "selfreport_terms"
+msgstr "ဤပံုစံကို အသံုးျပဳလွ်င္ ေအာက္ပါအခ်က္မ်ားကို သေဘာၿပီးျဖစ္သည္ဟု မွတ္ယူပါသည္။လူႀကီးမင္း၏ အၾကံျပဳတင္ျပခ်က္မ်ားကို အင္တာနက္စာမ်က္ႏွာေပၚတြင္ မေဖာ္ျပခင္ စိစစ္ တည္းျဖတ္ပါမည္။ အႀကံျပဳတင္ျပခ်က္အားလံုးကို ေဖာ္ျပမည္ မဟုတ္ပါ။ လူႀကီးမင္း၏ ေဝဖန္အၾကံေပးခ်က္မ်ားကို အာရ္အက္ဖ္ေအ အေနျဖင့္ အသံုးျပဳခြင့္ရွိပါသည္။"
+
+#: rfamobile '* required'   (seems redundant with all the 'required' id's above, but it's different.
+msgid "required"
+msgstr "လိုအပ္သည္။"
+
+#: rfamobile link to full site
+msgid "rfamobile_fullversion"
+msgstr "ဆိုက္တခုလံုးသို႔"
+
+#: rfamobile story page 'back to section'
+msgid "backtosection"
+msgstr "ေနာက္သို႔ ${sectionTitle}"
+
+>>>>>>> .merge-right.r5583

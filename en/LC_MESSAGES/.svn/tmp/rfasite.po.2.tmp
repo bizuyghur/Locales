@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rfasite-snap_20061115\n"
+"POT-Creation-Date: 2007-02-09 13:29:10-0500\n"
+"PO-Revision-Date: 2009-01-09 17:25-0500\n"
+"Last-Translator: Joshua Edelstein <edelsteinj@rfa.org>\n"
+"Language-Team: RFA Site <plone@techweb.rfa.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Domain: rfasite\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: latin1\n"
+"X-Is-Fallback-For: en-au en-bz en-ca en-ie en-jm en-nz en-ph en-za en-tt en-gb en-us en-zw\n"
+"Generated-By: zope/app/locales/extract.py\n"
+
+# Default: "Slideshow"
+#: e/skins/rfa/slideshow_blue_400.pt:28
+#: e/skins/rfa/slideshow_blue_600.pt:28
+#: e/skins/rfa/slideshow_white_400.pt:28
+#: e/skins/rfa/slideshow_white_600.pt:28
+msgid "slideshow_link"
+msgstr ""
+
+# Default: "Download story audio"
+#: e/skins/rfa/story_macros.pt:102
+msgid "story_download_audio"
+msgstr ""
+
+# Default: "E-mail this story"
+#: e/skins/rfa/story_macros.pt:113
+msgid "story_email"
+msgstr ""
+
+# Default: "Subscribe to email newsletter"
+#: e/skins/rfa/story_macros.pt:124
+msgid "story_subscribe_newsletter"
+msgstr ""
+
+# Default: "Print..."
+#: e/skins/rfa/story_macros.pt:136
+msgid "story_print"
+msgstr ""
+
+# Default: "Story Tools"
+#: e/skins/rfa/story_macros.pt:80
+msgid "story_tools"
+msgstr ""
+
+# Default: "Listen to story audio"
+#: e/skins/rfa/story_macros.pt:91
+msgid "story_listen_audio"
+msgstr ""
+
+#. Default: "Listen to or download the story"
+#: e/skins/rfa_shared/story_macros/storytop
+msgid "story_listen_download_audio"
+msgstr ""
+
+# Default: "Email Address"
+#: e/skins/rfa_retail/main_template.pt:303
+msgid "subscribe_email_address"
+msgstr ""
+
+# Default: "About"
+#: e/skins/rfa_retail/main_template.pt:337
+msgid "footer_about_rfa"
+msgstr ""
+
+# Default: "Contact"
+#: e/skins/rfa_retail/main_template.pt:340
+msgid "footer_contact_us"
+msgstr ""
+
+# Default: "Help"
+#: e/skins/rfa_retail/main_template.pt:343
+msgid "footer_technical_help"
+msgstr ""
+
+# Default: "Jobs"
+#: e/skins/rfa_retail/main_template.pt:346
+msgid "footer_jobs"
+msgstr ""
+
+# Default: "Privacy Policy"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_privacypolicy"
+msgstr ""
+
+# Default: "Site Map"
+#: e/skins/rfa_retail/main_template.pt:352
+msgid "footer_site_map"
+msgstr ""
+
+# Default: "Terms of Use"
+#: e/skins/rfa_retail/main_template.pt:355
+msgid "footer_terms_of_use"
+msgstr ""
+
+# Default: "Help"
+#: e/skins/rfa_retail/main_template.pt:39
+msgid "banner_help"
+msgstr ""
+
+# Default: "English"
+#: e/skins/rfa_retail/main_template.pt:41
+msgid "banner_english"
+msgstr "Home"
+
+# Default: "Text Only"
+#: e/skins/rfa_retail/main_template.pt:43
+msgid "banner_text_only"
+msgstr ""
+
+#. Default: "January"
+#: e/skins/rfa_retail/story_archive.pt:31
+msgid "story_archive_month01"
+msgstr "January"
+
+#. Default: "February"
+#: e/skins/rfa_retail/story_archive.pt:32
+msgid "story_archive_month02"
+msgstr "February"
+
+#. Default: "March"
+#: e/skins/rfa_retail/story_archive.pt:33
+msgid "story_archive_month03"
+msgstr "March"
+
+#. Default: "April"
+#: e/skins/rfa_retail/story_archive.pt:34
+msgid "story_archive_month04"
+msgstr "April"
+
+#. Default: "May"
+#: e/skins/rfa_retail/story_archive.pt:35
+msgid "story_archive_month05"
+msgstr "May"
+
+#. Default: "June"
+#: e/skins/rfa_retail/story_archive.pt:36
+msgid "story_archive_month06"
+msgstr "June"
+
+#. Default: "July"
+#: e/skins/rfa_retail/story_archive.pt:37
+msgid "story_archive_month07"
+msgstr "July"
+
+#. Default: "August"
+#: e/skins/rfa_retail/story_archive.pt:38
+msgid "story_archive_month08"
+msgstr "August"
+
+#. Default: "September"
+#: e/skins/rfa_retail/story_archive.pt:39
+msgid "story_archive_month09"
+msgstr "September"
+
+#. Default: "October"
+#: e/skins/rfa_retail/story_archive.pt:40
+msgid "story_archive_month10"
+msgstr "October"
+
+#. Default: "November"
+#: e/skins/rfa_retail/story_archive.pt:41
+msgid "story_archive_month11"
+msgstr "November"
+
+#. Default: "December"
+#: e/skins/rfa_retail/story_archive.pt:42
+msgid "story_archive_month12"
+msgstr "December"
+
+#. Default: "Showing ${start} to ${end} of ${number} results."
+#: e/skins/rfa_retail/search.pt:26
+msgid "batch_x_items_matching_your_criteria"
+msgstr "Showing ${start} to ${end} of ${number} results."
+
+#. Default: "Previous ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:30
+msgid "batch_previous_x_items"
+msgstr "Previous ${number} items"
+
+#. Default: "Next ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:43
+msgid "batch_next_x_items"
+msgstr "Next ${number} items"
+
+#. Default: "Share this story"
+#: e/skins/rfa/story_macros.pt:160
+msgid "addthis_share"
+msgstr "Share this story"
+
+#. Default: "Radio Free Asia"
+#:
+msgid "radio_free_asia"
+msgstr "Radio Free Asia"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa/story_macros.pt:152
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'Radio Free Asia'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'Bookmark & Share',more:'More...'};"
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[This comment has been edited by RFA Editorial staff per our Terms of Use]"
+
+
+#. Default: "Send"
+#: e/skins/rfa_mobile/contactus_form.cpt
+## Must be set, even for english, for i18n:attribute call
+msgid "label_send"
+msgstr "Send"
+
+#: Mobapp audioclips.xml
+msgid "daily_broadcast"
+msgstr "Daily Broadcast"

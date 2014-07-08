@@ -1,0 +1,1087 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rfasite-snap_20061115\n"
+"POT-Creation-Date: Fri Dec  8 16:27:03 2006\n"
+"PO-Revision-Date: 2010-07-21 12:20-0500\n"
+"Last-Translator: Joshua Edelstein <jde@rfa.org>\n"
+"Language-Team: RFA Plone CMS <plone@rfa.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: bo\n"
+"Language-Name: Tibetan\n"
+"Preferred-Encodings: utf8\n"
+"Domain: rfasite\n"
+
+#. Default: "English"
+#: e/skins/rfa_retail/main_template.pt:39
+msgid "banner_english"
+msgstr "<span class=tibenghome>English Home Page</span>"
+
+#. Default: "Help"
+#: e/skins/rfa_retail/main_template.pt:37
+msgid "banner_help"
+msgstr "རམ་འདེགས།"
+
+#. Default: "Text Only"
+#: e/skins/rfa_retail/main_template.pt:41
+msgid "banner_text_only"
+msgstr "ཡིག་ཐོག་གསར་འགྱུར།"
+
+#. Default: "About RFA"
+#: e/skins/rfa_retail/main_template.pt:337
+msgid "footer_about_rfa"
+msgstr "ང་ཚོའི་ངོ་སྤྲོད།"
+
+#. Default "About Us"
+#: skins/rfa_mobile/footer_links_macro
+msgid "footer_about"
+msgstr "ང་ཚོའི་སྐོར།"
+
+#. Default: "Broadcasting Board of Governors"
+#: e/skins/rfa_retail/main_template.pt:353
+msgid "footer_board_of_governors"
+msgstr "རྒྱང་བསྒྲགས་ལས་ཁང་འགན་འཛིན་ཚོགས་ཆུང༌།"
+
+#. Default: "Contact Us"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_contact_us"
+msgstr "ང་ཚོར་འབྲེལ་བ་གནང་ཡུལ།"
+
+#. Default: "FAQs"
+#: e/skins/rfa_retail/main_template.pt:343
+msgid "footer_faqs"
+msgstr "ཡང་སེ་བཏོན་པའི་དྲི་བ།"
+
+#. Default: "Jobs"
+#: e/skins/rfa_retail/main_template.pt:340
+msgid "footer_jobs"
+msgstr "ལས་ཀའི་གསལ་བསྒྲགས།"
+
+#. Default: "Site Map"
+#: e/skins/rfa_retail/main_template.pt:346
+msgid "footer_site_map"
+msgstr "དྲ་བའི་ས་ཁྲ།"
+
+#. Default: "Technical Help"
+#: e/skins/rfa_retail/main_template.pt:334
+#: e/skins/rfa_retail/main_template.pt:356
+msgid "footer_technical_help"
+msgstr "འཕྲུལ་ལས་རམ་འདེགས།"
+
+#. Default: "Send"
+#: e/skins/rfa_retail/sendto_form.pt:117
+msgid "send_options"
+msgstr "གཏོང་བ།"
+
+#. Default: "full story text"
+#: e/skins/rfa_retail/sendto_form.pt:118
+msgid "full_story_text"
+msgstr "གནས་ཚུལ་ཆ་ཚང་ལ་གཟིགས།"
+
+#. Default: "link to story"
+#: e/skins/rfa_retail/sendto_form.pt:119
+msgid "link_to_story"
+msgstr "གནས་ཚུལ་ལ་མཐུད་པ།"
+
+#. Default: "Most viewed stories"
+#: e/skins/rfa_retail/story_main.pt:59
+msgid "most_viewed_stories"
+msgstr "བལྟ་བཤེར་མང་ཤོས་བྱས་པའི་གནས་ཚུལ།"
+
+#. Default: "Most e-mailed stories"
+#: e/skins/rfa_retail/story_main.pt:76
+msgid "most_emailed_stories"
+msgstr "གློག་འཕྲིན་མང་ཤོས་འབྱོར་མཁན་གྱི་གནས་ཚུལ།"
+
+#. Default: "Download story audio"
+#: e/skins/rfa/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "སྒྲ་ཕབ་ལེན།"
+
+#. Default: "E-mail this story"
+#: e/skins/rfa/story_macros.pt:106
+msgid "story_email"
+msgstr "གཞན་ལ་ཐོངས།"
+
+#. Default: "Download this story"
+#: e/skins/rfa/story_macros.pt:106
+msgid "download_story"
+msgstr "གནས་ཚུལ་ཕབ་ལེན་བྱེད་པ།"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "སྒྲ་ལྡན་གསར་འགྱུར།"
+
+#. Default: "Listen to or download the story"
+#: e/skins/rfa_shared/story_macros/storytop
+msgid "story_listen_download_audio"
+msgstr "ལེ་ཚན་གསན་པའམ་ཕབ་པ།"
+
+#. Default: "Print..."
+#: e/skins/rfa/story_macros.pt:126
+msgid "story_print"
+msgstr "པར་བཀོད།"
+
+#. Default: "Subscribe to email newsletter"
+#: e/skins/rfa/story_macros.pt:116
+msgid "story_subscribe_newsletter"
+msgstr "ཉིན་རེའི་གསར་འགྱུར་ལེན་ཐོ།"
+
+#. Default: "Story Tools"
+#: e/skins/rfa/story_macros.pt:77
+msgid "story_tools"
+msgstr "གསར་འགྱུར་དང་འབྲེལ་བའི་འཕྲུལ་རིག"
+
+#. Default: "Email Address"
+#: e/skins/rfa_retail/main_template.pt:302
+msgid "subscribe_email_address"
+msgstr "གློག་འཕྲིན་ཁང་བྱང༌།"
+
+#. Default: "Privacy Policy"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_privacypolicy"
+msgstr "གསང་དོན་འགན་ལེན༎"
+
+#. Default: "Terms of Use"
+#: e/skins/rfa_retail/main_template.pt:355
+msgid "footer_terms_of_use"
+msgstr "དྲ་ངོས་ཀྱི་ནང་དོན་སྤྱོད་ཕྱོགས།"
+
+#. Default: "Send this page to somebody"
+#: e/skins/rfa_retail/sendto_form.cpt:17
+msgid "heading_send_page_to"
+msgstr "དྲ་ངོས་འདི་མི་གཞན་ཞིག་ལ་ཐོངས༌།"
+
+#. Default: "Fill in the email address of your friend to send an email with the address."
+#: e/skins/rfa_retail/sendto_form.cpt:20
+msgid "description_send_page_to"
+msgstr "འགེངས་ཡུལ་ནང་གྲོགས་པོའི་གློག་འཕྲིན་ཁ་བྱང་བྲིས།"
+
+#. Default: "Address info"
+#: e/skins/rfa_retail/sendto_form.cpt:34
+msgid "legend_address_info"
+msgstr "གློག་འཕྲིན་ཁ་བྱང་།"
+
+#. Default: "Send to"
+#: e/skins/rfa_retail/sendto_form.cpt:41
+msgid "label_send_to_mail"
+msgstr "གཏང་ཡུལ་གྱི་ཁ་བྱང་།"
+
+#. Default: "(Required)"
+#: e/skins/rfa_retail/sendto_form.cpt:45
+#:XXX Remove Punctuation and merge with 'required' below.
+msgid "label_required"
+msgstr "(དགོས་ངེས།)"
+
+#. Default: "Required"
+#: e/skins/rfa_mobile/selfreport_form.cpt:45
+msgid "required"
+msgstr "དགོས་ངེས།"
+
+#. Default: "The e-mail address to send this link to."
+#: e/skins/rfa_retail/sendto_form.cpt:48
+msgid "help_send_to_mail"
+msgstr "གློག་འཕྲིན་ཁ་བྱང་འདིར་དྲ་བའི་མཐུད་མཚམས་ཐོངས།"
+
+#. Default: "From"
+#: e/skins/rfa_retail/sendto_form.cpt:68
+msgid "label_send_from"
+msgstr "གཏོང་མཁན།"
+
+#. Default: "Your email address."
+#: e/skins/rfa_retail/sendto_form.cpt:74
+msgid "help_send_from"
+msgstr "གློག་འཕྲིན་ཁ་བྱང༌།"
+
+#. Default: "Comment"
+#: e/skins/rfa_retail/sendto_form.cpt:93
+msgid "label_comment"
+msgstr "མཆན་འབྲི་ས།"
+
+#. Default: "A comment about this link."
+#: e/skins/rfa_retail/sendto_form.cpt:95
+msgid "help_comment_to_link"
+msgstr "དྲ་བའི་མཐུད་མཚམས་འདིར་མཆན་བྲིས།"
+
+#. Default: "Listen to Program Segments"
+#: e/skins/rfa/audioarchive_macros.pt:26
+msgid "archive_listen_to_segments"
+msgstr "ལེ་ཚན་གསན་ཡུལ།"
+
+#. Default: "Download"
+#: e/skins/rfa/audioarchive_macros.pt:43
+msgid "archive_download_button"
+msgstr "ཕབ་ལེན།"
+
+#. Default: "Stream Audio"
+#: e/skins/rfa/audioarchive_macros.pt:47
+msgid "archive_stream_button"
+msgstr "ལས་རིམ་གསན།"
+
+#. Default: "Download Audio Player"
+#: e/skins/rfa/audioarchive_macros.pt:61
+msgid "archive_download_audio_player"
+msgstr "ཉན་བྱེད་ཕབ་ལེན།"
+
+#. Default: "Related Stories"
+#: e/skins/rfa/story_macros.pt:157
+msgid "story_related_stories"
+msgstr "འབྲེལ་ཡོད་གནས་ཚུལ།"
+
+#. Default: "Subscribe to Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:14
+msgid "heading_subscribe_newsletter"
+msgstr "གསར་འགྱུར་ལེན་ཐོ།"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa_retail/subscribenewsletter.pt:15
+msgid "description_subscribe_newsletter"
+msgstr "གསར་འགྱུར་གསར་པ་ལེན་པའི་ཆེད་ཁྱེད་ཀྱི་གློག་འཕྲིན་ཁ་བྱང་འདིར་འགོད་རོགས།"
+
+#. Default: "Your e-mail address"
+#: e/skins/rfa_retail/subscribenewsletter.pt:19
+msgid "label_subscribe_newsletter"
+msgstr "གློག་འཕྲིན་ཁ་བྱང༌།"
+
+#. Default: "Get Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:32
+msgid "subscribe_getnewsletter_button"
+msgstr "གསར་འགྱུར་ལོན།"
+
+#. Default: "Search"
+#: e/skins/rfa_retail/main_template.pt:52
+msgid "button_search_site"
+msgstr "འཚོལ།"
+
+#. Default: "Code of Ethics"
+#: e/skins/rfa_retail/main_template.pt:380
+msgid "footer_code_of_ethics"
+msgstr "གསར་འགོད་པའི་སྒྲིག་སྲོལ།"
+
+#. Default: "Frequencies"
+#: e/skins/rfa_retail/main_template.pt:383
+msgid "footer_frequencies"
+msgstr "རྒྱང་སྲིང་འོད་ཚད།"
+
+#. Default: "U.S. International Broadcasting"
+#: e/skins/rfa_retail/main_template.pt:403
+msgid "footer_ibb"
+msgstr "ཨ་རིའི་རྒྱལ་སྤྱིའི་རྒྱང་སྲིང་ལས་ཁང༌།"
+
+#. Default: "Voice of America"
+#: e/skins/rfa_retail/main_template.pt:407
+msgid "footer_voa"
+msgstr "ཨ་རིའི་རླུང་འཕྲིན་ལས་ཁང༌གི་བོད་སྐད་སྡེ་ཚན།"
+
+#. Default: "http://www.voanews.com"
+#: e/skins/rfa_retail/main_template.pt:406
+msgid "footer_voa_subsite"
+msgstr "http://www.voanews.com/tibetan/"
+
+#. Default: "Listen to Audio"
+#: e/skins/rfa_retail/listennow.pt:18
+msgid "linkto_audioarchive"
+msgstr "སྒྲ་ལྡན་གསར་འགྱུར།"
+
+#. Default: "Show Images"
+#: e/skins/rfa_retail/main_template.pt:93
+msgid "banner_show_images"
+msgstr "པར་རིས་འདོན།"
+
+#. Default: "Podcasts"
+#: e/skins/rfa_retail/main_template.pt:375
+msgid "podcast_link"
+msgstr "པོཌ་ཁཱས་ཊི།"
+
+#. Default: "RSS Feeds"
+#: e/skins/rfa_retail/main_template.pt:381
+msgid "rss_link"
+msgstr "ཨར་ཨེས་ཨེས།"
+
+#. Default: "404 - Page Not Found"
+#: e/skins/rfa_retail/main_template.pt:138
+msgid "404_header"
+msgstr "404 – Page Not Found"
+
+#. Default: "Our apologies... the page you're looking for could not be found on our system.	If you followed a link or typed the URL correctly the content may have been moved, deleted or temporarily retracted. Please click the "back" button in your browser or go to our <a href="/english/">homepage</a>. You may also use our search or archive to find RFA content by topic or date."
+#: e/skins/rfa_retail/main_template.pt:139
+msgid "404_message"
+msgstr "Our apologies... the page you're looking for could not be found on our system. If you followed a link or typed the URL correctly the content may have been moved, deleted or temporarily retracted. Please click the Back button in your browser or go to the <a href=/tibetan/>Tibetan homepage</a>. You may also use our search or archive to find RFA content by topic or date."
+
+#. Default: "Story Archive"
+#: e/skins/rfa_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "གསར་འགྱུར་ཡིག་ཚགས།"
+
+#. Default: "Please use the calendar below to search for articles from RFA's archive. Use the calendar arrows or the year and month pull-down menus to select past months and the calendar to select a specific day. Relevant stories will appear at the right."
+#: e/skins/rfa_retail/story_archive.pt:11
+msgid "story_archive_message"
+msgstr "ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་བོད་སྐད་སྡེ་ཚན་གྱིས་སྔོན་སྤེལ་ཟིན་པའི་གསར་འགྱུར་ཁག་འཚོལ་ཞིབ་བྱེད་དགོས་ན་གཤམ་གསལ་ལོ་ཐོ་འདིའི་སྟེང་ཡོད་པའི་ལོ་དང༌། ཟླ་བ། ཉི་མ་གང་དུ་སྤེལ་བའི་གསར་འགྱུར་དེ་འདམས་ན་ནས་འཚོལ་ཐུབ་ཀྱི་ཡོད།"
+
+#. Default: "Select year and month:"
+#: e/skins/rfa_retail/story_archive.pt:21
+msgid "story_archive_select"
+msgstr "འབྲེལ་ཡོད་གསར་འགྱུར་ཁག་དྲ་ངོས་ཀྱི་གཡས་ཕྱོགས་སུ་གཟིགས་ཐུབ།"
+
+#. Default: "January"
+#: e/skins/rfa_retail/story_archive.pt:31
+msgid "story_archive_month01"
+msgstr "ཕྱི་ཟླ་དང་པོ།"
+
+#. Default: "February"
+#: e/skins/rfa_retail/story_archive.pt:32
+msgid "story_archive_month02"
+msgstr "ཕྱི་ཟླ་གཉིས་པ།"
+
+#. Default: "March"
+#: e/skins/rfa_retail/story_archive.pt:33
+msgid "story_archive_month03"
+msgstr "ཕྱི་ཟླ་གསུམ་པ།"
+
+#. Default: "April"
+#: e/skins/rfa_retail/story_archive.pt:34
+msgid "story_archive_month04"
+msgstr "ཕྱི་ཟླ་བཞི་པ།"
+
+#. Default: "May"
+#: e/skins/rfa_retail/story_archive.pt:35
+msgid "story_archive_month05"
+msgstr "ཕྱི་ཟླ་ལྔ་པ།"
+
+#. Default: "June"
+#: e/skins/rfa_retail/story_archive.pt:36
+msgid "story_archive_month06"
+msgstr "ཕྱི་ཟླ་དྲུག་པ།"
+
+#. Default: "July"
+#: e/skins/rfa_retail/story_archive.pt:37
+msgid "story_archive_month07"
+msgstr "ཕྱི་ཟླ་བདུན་པ།"
+
+#. Default: "August"
+#: e/skins/rfa_retail/story_archive.pt:38
+msgid "story_archive_month08"
+msgstr "ཕྱི་ཟླ་བརྒྱད།"
+
+#. Default: "September"
+#: e/skins/rfa_retail/story_archive.pt:39
+msgid "story_archive_month09"
+msgstr "ཕྱི་ཟླ་དགུ་པ།"
+
+#. Default: "October"
+#: e/skins/rfa_retail/story_archive.pt:40
+msgid "story_archive_month10"
+msgstr "ཕྱི་ཟླ་བཅུ་པ།"
+
+#. Default: "November"
+#: e/skins/rfa_retail/story_archive.pt:41
+msgid "story_archive_month11"
+msgstr "ཕྱི་ཟླ་བཅུ་གཅིག"
+
+#. Default: "December"
+#: e/skins/rfa_retail/story_archive.pt:42
+msgid "story_archive_month12"
+msgstr "ཕྱི་ཟླ་བཅུ་གཉིས།"
+
+#. Default: "Su"
+#: e/skins/rfa_retail/story_archive.pt:77
+msgid "story_archive_su"
+msgstr "ཟླ་"
+
+#. Default: "Mo"
+#: e/skins/rfa_retail/story_archive.pt:78
+msgid "story_archive_mo"
+msgstr "མིག་"
+
+#. Default: "Tu"
+#: e/skins/rfa_retail/story_archive.pt:79
+msgid "story_archive_tu"
+msgstr "ལྷག་"
+
+#. Default: "We"
+#: e/skins/rfa_retail/story_archive.pt:80
+msgid "story_archive_we"
+msgstr "ཕུར་"
+
+#. Default: "Th"
+#: e/skins/rfa_retail/story_archive.pt:81
+msgid "story_archive_th"
+msgstr "སངས་"
+
+#. Default: "Fr"
+#: e/skins/rfa_retail/story_archive.pt:82
+msgid "story_archive_fr"
+msgstr "སྤེན་"
+
+#. Default: "Sa"
+#: e/skins/rfa_retail/story_archive.pt:83
+msgid "story_archive_sa"
+msgstr "ཉི་"
+
+#. Default: "Results"
+#: e/skins/rfa_retail/story_archive.pt:110
+msgid "story_archive_results"
+msgstr "འཚོལ་བའི་གྲུབ་འབྲས།"
+
+#. Default: "Search Results"
+#: e/skins/rfa_retail/search.pt:14
+msgid "heading_search_results"
+msgstr "འཚོལ་བའི་གྲུབ་འབྲས།"
+
+#. Default: "${number} items matching your criteria."
+#: e/skins/rfa_retail/search.pt:26
+msgid "batch_x_items_matching_your_criteria"
+msgstr "ཁྱེད་ཀྱི་ཚད་གཞི་ལྡན་པའི་གསར་འགྱུར་ ${number} རྙེད་སོང༌།"
+
+#. Default: "Next ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:43
+msgid "batch_next_x_items"
+msgstr "${number} ལྡན་པའི་དྲ་ངོས་རྗེས་མར་གཟིགས།"
+
+#. Default: "Previous ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:30
+msgid "batch_previous_x_items"
+msgstr "${number} ལྡན་པའི་དྲ་ངོས་སྔོན་མར་གཟིགས།"
+
+#. Default: "Next"
+# skins/rfa_mobile section_macros
+msgid "next"
+msgstr "རྗེས་མ།"
+
+#. Default: "Previous"
+# skins/rfa_mobile section_macros
+#XXX NEED TRANSLATION
+#msgid "previous"
+#msgstr ""
+
+#. Default: "Home"
+#: e/skins/rfa_retail/main_template.pt:168
+msgid "subsite_home"
+msgstr "བོད་སྐད་སྡེ་ཚན།"
+
+#. Default: "Share this story"
+#: e/skins/rfa/story_macros.pt:160
+msgid "addthis_share"
+msgstr "གནས་ཚུལ་འདི་གཞན་ལ་སྤེལ།"
+
+<<<<<<< .working
+#. Default: "Radio Free Asia"
+#:
+msgid "radio_free_asia"
+msgstr "ཨར་ཨེཕ་ཨེ།"
+
+=======
+#. Default: "Radio Free Asia"
+#: 
+msgid "radio_free_asia"
+msgstr "ཨར་ཨེཕ་ཨེ།"
+
+>>>>>>> .merge-right.r5583
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa/story_macros.pt:152
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'ཨར་ཨེཕ་ཨེ།'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'དཔེ་རྟགས་དང་འགྲེམས་སྤེལ།',more:'དེ་བས་མང༌།'};"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa/story_macros.pt:86
+msgid "comments_addyours"
+msgstr "<a href='discussion_reply_form/#commentsbox'>ཁྱེད་ཀྱི་མཆན་འགོད་ཆེད་འདི་གནོན།</a>"
+
+#. Default: "You can add a comment by filling out the form below. Plain text formatting."
+#: e/skins/rfa/story_comments_macros.pt:77
+msgid "comments_intro"
+msgstr 'གཤམ་དུ་ཡོད་པའི་འགེང་ཤོག་འགེང་ནས་སོ་སོའི་མཆན་བཀོད་རོགས་གནང་། མཆན་དེ་མ་ཐག་ཏུ་གཟིགས་མི་ཐུབ་པ་དང་འབྲེལ་ཡོད་འགན་འཛིན་གྱིས་ང་ཚོའི་སྒྲིག་འཛུགས་ཀྱི་ནང་དོན་སྤྱོད་ཕྱོགས་དང་བ<br>སྟུན་ནས་བསྒྱུར་བཅོས་དང་ཕྱོགས་སྒྲིག་བྱེད་དེ་དྲ་གནས་ཐོག་ཁྱབ་སྤེལ་བྱ་སྲིད། མཆན་གྱི་ནང་དོན་ཐད་ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་ལ་འགན་གང་ཡང་མེད་པ་དང་། མཆན་གཞག་གནང་སྐབས་གཞན་གྱི་ཚོར་སྣང་ལ་བརྩི་མཐོང་དང་དངོས་འབྲེལ་ལ་ཐུགས་སྣང་གནང་རོགས་ཞུ༎<a href="/tibetan/about/terms-of-use.html">RFAs Terms of Use</a>'
+
+#. Default: "Your comment has been submitted for moderation, and should appear shortly."
+#: e/skins/rfa/story_comments_macros.pt:84
+msgid "comment_confirmation"
+msgstr "མཆན་བཀོད་པར་ཐུགས་རྗེ་ཆེ།"
+
+#. Default: "Name (Optional)"
+#: e/skins/rfa/story_comments_macros.pt:102
+msgid "label_commentor_name"
+msgstr "མིང༌། ༼འདོད་མོས།༽"
+
+#. Default: "City (Optional)"
+#: e/skins/rfa/story_comments_macros.pt:112
+msgid "label_commentor_city"
+msgstr "གྲོང་ཁྱེར། ༼འདོད་མོས།༽"
+
+#. Default: "Please type the characters you see in the image."
+#: e/skins/rfa/story_comments_macros.pt:126
+msgid "help_captcha"
+msgstr "པར་གྱི་ཐོག་ཡོད་པའི་ཡིག་འབྲུ་རྣམས་འགོད་རོགས།"
+
+#. Default: "Please type the characters in the image."
+#: e/skins/rfa/story_comments_macros.pt:130
+msgid "captcha_required"
+msgstr "རེ་མོའི་ནང་ཡོད་པའི་ཡི་གེ་འགོད་རོགས།"
+
+#. Default: "Comment (Required)"
+#: e/skins/rfa/story_comments_macros.pt:148
+msgid "label_comment_body_text"
+msgstr "མཆན། ༼ངེས་པར་དགོས།༽"
+
+#. Default: "Submit"
+#: e/skins/rfa/story_comments_macros.pt:162
+msgid "submit_comments_button"
+msgstr "ཡར་འབུལ།"
+
+#. Default: "Anonymous Reader"
+#: e/skins/rfa/story_macros.pt:160
+msgid "anonymous_reader"
+msgstr "མིང་འདོན་མེད་པའི་ཀློག་མཁན།"
+
+#. Default: "from"
+#: e/skins/rfa/story_macros.pt:160
+msgid "from_city"
+msgstr "ནས།"
+
+#. Default: "View all comments"
+#: e/skins/rfa/story_macros.pt:160
+msgid "view_all_comments"
+msgstr "མཆན་ཚང་མར་གཟིགས།"
+
+<<<<<<< .working
+
+################################################
+#####                                      #####
+#####   HERE BEGIN THE RFA2 TRANSLATIONS   #####
+#####                                      #####
+################################################
+
+#. Default: "View older stories >>"
+#: e/skins/rfa2_shared/section_macros.pt:65
+msgid "view_older_stories"
+msgstr "གསར་འགྱུར་རྙིང་པར་གཟིགས། >>"
+
+#. Default: "Search"
+#: e/skins/rfa2_retail/main_template.pt:177
+msgid "value_search"
+msgstr "འཚོལ།"
+
+#. Default: "E-mail"
+#: e/skins/rfa2_shared/story_macros.pt:135
+msgid "storytool_email"
+msgstr "གློག་འཕྲིན།"
+
+#. Default: "Comment"
+#: e/skins/rfa2_shared/story_macros.pt:130
+msgid "storytool_comment"
+msgstr "མཆན།"
+
+#. Default: "Share"
+#: e/skins/rfa2_shared/story_macros.pt:125
+msgid "storytool_share"
+msgstr "འགྲེམ་སྤེལ།"
+
+#. Default: "Print"
+#: e/skins/rfa2_shared/story_macros.pt:120
+msgid "storytool_print"
+msgstr "པར་བཀོད།"
+
+#. Default: "Editor's Pick"
+#: e/skins/rfa2_shared/service_macros.pt:170
+msgid "editors_pick"
+msgstr "བཀོད་སྒྲིག་པའི་འདེམས་སྒྲུག"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa2_shared/story_macros.pt:268
+msgid "click_here_comment"
+msgstr "ཁྱེད་ཀྱི་མཆན་འགོད་ཆེད་འདི་གནོན།"
+
+#. Default: "Home"
+#: e/skins/rfa2_retail/main_template.pt:196
+msgid "service_home"
+msgstr "བོད་སྐད་སྡེ་ཚན།"
+
+#. Default: "Audio"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "audio"
+msgstr "སྒྲ"
+
+#. Default: "Video"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "video"
+msgstr "བརྙན།"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa2_shared/story_macros.pt:88
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'ཨར་ཨེཕ་ཨེ།'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'དཔེ་རྟགས་དང་འགྲེམས་སྤེལ།',more:'དེ་བས་མང༌།'};"
+
+#. Default: "Download story audio"
+#: e/skins/rfa2_shared/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "སྒྲ་ཕབ་ལེན།"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa2_shared/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "སྒྲ་ལྡན་གསར་འགྱུར།"
+
+#. Default: "Return to story"
+#: e/skins/rfa_retail/discussion_reply_form.cpt:30
+msgid "return_to_story"
+msgstr "གནས་ཚུལ་ལ་ཕྱིར་ལོག"
+
+#. Default: "Audio Archive"
+#: e/skins/rfa2_retail/audioarchive.pt:30
+msgid "audio_archive"
+msgstr "སྒྲ་ལྡན་ལས་རིམ།"
+
+#. Default: "Get News Alerts"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:12
+msgid "heading_subscribe_newsletter"
+msgstr "གློག་འཕྲིན་གསལ་བསྒྲགས་ཐོ་འགོད།"
+
+#. Default: "To subscribe to our email news, simply send us your email address."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:15
+msgid "subscribe_message_one"
+msgstr "ང་ཚོའི་གསར་འགྱུར་གློག་འཕྲིན་ཐོག་དགོས་ན།	ཁྱེད་རང་གི་གློག་འཕྲིན་ཁ་བྱང་ང་ཚོར་གཏང་རོགས།"
+
+#. Default: "You will receive occasioinal news updates and press releases."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:19
+msgid "subscribe_message_two"
+msgstr "ང་ཚོའི་དུས་ཐོག་གི་གནས་ཚུལ་དང་གསར་འགོད་གསལ་བསྒྲགས་ཁྱེད་རང་ལ་འབྱོར་གྱི་རེད།"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:22
+msgid "description_subscribe_newsletter"
+msgstr "ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་ཉིན་རེའི་གསར་འགྱུར་གྱི་ཆེད་དུ་ཁྱེད་རང་གི་གློག་འཕྲིན་ཁ་བྱང་གཅུག་རོགས།"
+
+#. Default: "Enter email address"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:35
+msgid "value_subscriber_email"
+msgstr ""
+
+#. Default: "By sending us your email address, you adhere to RFA's <a href='/english/about/terms-of-use.html'>Terms of Use</a>."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:47
+msgid "agree_terms_of_use"
+msgstr "ཁྱེད་རང་གི་གློག་འཕྲིན་ཁ་བྱང་ང་ཚོར་བཏང་བའི་བརྒྱུད།	ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་ཆ་རྐྱེན་ཁག་ལ་ངོས་ལེན་གནང་བ་མཚོན་གྱི་ཡོད།"
+
+#. Default: "Send Us Your News"
+#: e/skins/rfa2_retail/send_news_form.pt:33
+msgid "heading_send_news"
+msgstr "ཁྱེད་རང་ལ་གནས་ཚུལ་རིགས་ཡོད་ན། ང་ཚོར་གཏང་རོགས།"
+
+#. Default: "We value your reporting.  Tell us the Where, What, When, Who, Why. Share your photos, audio or video with us through MMS or email to contact@rfa.org.  Alternately, send us your news stories and comments using the form below."
+#: e/skins/rfa2_retail/send_news_form.pt:36
+msgid "description_send_news"
+msgstr "སྒྲ་ལྡན་དང་བརྙན་པར་གསར་འགྱུར་ང་ཚོར་གཤམ་བརྒྱུད་ཐོངས་རོགས། MMSཡང་ན་གློག་འཕྲིན་ཁ་བྱང་ལ་ཐོངས་རོགས། <a href='mailto:tibetnews@rfa.org'>tibetnews@rfa.org</a> ཡང་ན་གསར་འགྱུར་དང་མཆན་གཤམ་གྱི་འགེངས་གནས་བརྒྱུད་ཐོངས་རོགས།"
+
+#. Default: "Comments"
+#: e/skins/rfa2_retail/send_news_form.pt:55
+msgid "label_comment"
+msgstr "མཆན།"
+
+#. Default: "Name"
+#: e/skins/rfa2_retail/send_news_form.pt:71
+msgid "label_name"
+msgstr "མིང་།"
+
+#. Default: "Country"
+#: e/skins/rfa2_retail/send_news_form.pt:87
+msgid "label_country"
+msgstr "རྒྱལ་ཁབ།"
+
+#. Default: "Enter the text below"
+#: e/skins/rfa2_retail/send_news_form.pt:103
+msgid "label_captcha"
+msgstr "ཡིག་གཞི་གཤམ་ལ་སྐྱོན་རོགས།"
+
+#. Default: "Send"
+#: e/skins/rfa2_retail/send_news_form.pt:115
+msgid "label_send"
+msgstr "གཏོང༌།"
+
+#. Default: "Story Archive"
+#: e/skins/rfa2_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "གསར་འགྱུར་ཡིག་ཚགས།"
+
+#. Default: "All comments for"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:17
+=======
+
+################################################
+#####                                      #####
+#####   HERE BEGIN THE RFA2 TRANSLATIONS   #####
+#####                                      #####
+################################################
+
+#. Default: "View older stories >>"
+#: e/skins/rfa2_shared/section_macros.pt:65
+msgid "view_older_stories"
+msgstr "གསར་འགྱུར་རྙིང་པར་གཟིགས། >>"
+
+#. Default: "Search"
+#: e/skins/rfa2_retail/main_template.pt:177
+msgid "value_search"
+msgstr "འཚོལ།"
+
+#. Default: "E-mail"
+#: e/skins/rfa2_shared/story_macros.pt:135
+msgid "storytool_email"
+msgstr "གློག་འཕྲིན།"
+
+#. Default: "Comment"
+#: e/skins/rfa2_shared/story_macros.pt:130
+msgid "storytool_comment"
+msgstr "མཆན།"
+
+#. Default: "Share"
+#: e/skins/rfa2_shared/story_macros.pt:125
+msgid "storytool_share"
+msgstr "འགྲེམ་སྤེལ།"
+
+#. Default: "Print"
+#: e/skins/rfa2_shared/story_macros.pt:120
+msgid "storytool_print"
+msgstr "པར་བཀོད།"
+
+#. Default: "Editor's Pick"
+#: e/skins/rfa2_shared/service_macros.pt:170
+msgid "editors_pick"
+msgstr "བཀོད་སྒྲིག་པའི་འདོད་མོས།"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa2_shared/story_macros.pt:268
+msgid "click_here_comment"
+msgstr "ཁྱེད་ཀྱི་མཆན་འགོད་ཆེད་འདི་གནོན།"
+
+#. Default: "Home"
+#: e/skins/rfa2_retail/main_template.pt:196
+msgid "service_home"
+msgstr "བོད་སྐད་སྡེ་ཚན།"
+
+#. Default: "Audio"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "audio"
+msgstr "སྒྲ"
+
+#. Default: "Video"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "video"
+msgstr "བརྙན།"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa2_shared/story_macros.pt:88
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'ཨར་ཨེཕ་ཨེ།'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'དཔེ་རྟགས་དང་འགྲེམས་སྤེལ།',more:'དེ་བས་མང༌།'};"
+
+#. Default: "Download story audio"
+#: e/skins/rfa2_shared/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "སྒྲ་ཕབ་ལེན།"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa2_shared/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "སྒྲ་ལྡན་གསར་འགྱུར།"
+
+#. Default: "Return to story"
+#: e/skins/rfa_retail/discussion_reply_form.cpt:30
+msgid "return_to_story"
+msgstr "གནས་ཚུལ་ལ་ཕྱིར་ལོག"
+
+#. Default: "Audio Archive"
+#: e/skins/rfa2_retail/audioarchive.pt:30
+msgid "audio_archive"
+msgstr "སྒྲ་ལྡན་ལས་རིམ།"
+
+#. Default: "Get News Alerts"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:12
+msgid "heading_subscribe_newsletter"
+msgstr "གློག་འཕྲིན་གསལ་བསྒྲགས་ཐོ་འགོད།"
+
+#. Default: "To subscribe to our email news, simply send us your email address."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:15
+msgid "subscribe_message_one"
+msgstr "ང་ཚོའི་གསར་འགྱུར་གློག་འཕྲིན་ཐོག་དགོས་ན།	ཁྱེད་རང་གི་གློག་འཕྲིན་ཁ་བྱང་ང་ཚོར་གཏང་རོགས།"
+
+#. Default: "You will receive occasioinal news updates and press releases."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:19
+msgid "subscribe_message_two"
+msgstr "ང་ཚོའི་དུས་ཐོག་གི་གནས་ཚུལ་དང་གསར་འགོད་གསལ་བསྒྲགས་ཁྱེད་རང་ལ་འབྱོར་གྱི་རེད།"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:22
+msgid "description_subscribe_newsletter"
+msgstr "ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་ཉིན་རེའི་གསར་འགྱུར་གྱི་ཆེད་དུ་ཁྱེད་རང་གི་གློག་འཕྲིན་ཁ་བྱང་གཅུག་རོགས།"
+
+#. Default: "Enter email address"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:35
+msgid "value_subscriber_email"
+msgstr ""
+
+#. Default: "By sending us your email address, you adhere to RFA's <a href='/english/about/terms-of-use.html'>Terms of Use</a>."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:47
+msgid "agree_terms_of_use"
+msgstr "ཁྱེད་རང་གི་གློག་འཕྲིན་ཁ་བྱང་ང་ཚོར་བཏང་བའི་བརྒྱུད།	ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་ཆ་རྐྱེན་ཁག་ལ་ངོས་ལེན་གནང་བ་མཚོན་གྱི་ཡོད།"
+
+#. Default: "Send Us Your News"
+#: e/skins/rfa2_retail/send_news_form.pt:33
+msgid "heading_send_news"
+msgstr "ཁྱེད་རང་ལ་གནས་ཚུལ་རིགས་ཡོད་ན། ང་ཚོར་གཏང་རོགས།"
+
+#. Default: "We value your reporting.  Tell us the Where, What, When, Who, Why. Share your photos, audio or video with us through MMS or email to contact@rfa.org.  Alternately, send us your news stories and comments using the form below."
+#: e/skins/rfa2_retail/send_news_form.pt:36
+msgid "description_send_news"
+msgstr "སྒྲ་ལྡན་དང་བརྙན་པར་གསར་འགྱུར་ང་ཚོར་གཤམ་བརྒྱུད་ཐོངས་རོགས། MMSཡང་ན་གློག་འཕྲིན་ཁ་བྱང་ལ་ཐོངས་རོགས། <a href='mailto:tibetnews@rfa.org'>tibetnews@rfa.org</a> ཡང་ན་གསར་འགྱུར་དང་མཆན་གཤམ་གྱི་འགེངས་གནས་བརྒྱུད་ཐོངས་རོགས།"
+
+#. Default: "Comments"
+#: e/skins/rfa2_retail/send_news_form.pt:55
+msgid "label_comment"
+msgstr "མཆན།"
+
+#. Default: "Name"
+#: e/skins/rfa2_retail/send_news_form.pt:71
+msgid "label_name"
+msgstr "མིང་།"
+
+#. Default: "Country"
+#: e/skins/rfa2_retail/send_news_form.pt:87
+msgid "label_country"
+msgstr "རྒྱལ་ཁབ།"
+
+#. Default: "Enter the text below"
+#: e/skins/rfa2_retail/send_news_form.pt:103
+msgid "label_captcha"
+msgstr "ཡིག་གཞི་གཤམ་ལ་སྐྱོན་རོགས།"
+
+#. Default: "Send"
+#: e/skins/rfa2_retail/send_news_form.pt:115
+msgid "label_send"
+msgstr "གཏོང༌།"
+
+#. Default: "Story Archive"
+#: e/skins/rfa2_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "གསར་འགྱུར་ཡིག་ཚགས།"
+
+#. Default: "All comments for"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:17
+>>>>>>> .merge-right.r5583
+msgid "all_comments_for"
+msgstr "འབྲེལ་ཡོད་མཆན་ཚང་མ།"
+
+#. Default: "Add your comment by filling out the form below in plain text. Comments are approved by a moderator and can be edited in accordance with  <a href='/english/about/terms-of-use.html'>RFAs Terms of Use</a>.  Comments will not appear in real time. RFA is not responsible for the content of the postings. Please, be respectful of others' point of view and stick to the facts."
+#: e/skins/rfa2_shared/story_comments_macros.pt:79
+msgid "comments_intro"
+msgstr "གཤམ་དུ་ཡོད་པའི་འགེང་ཤོག་འགེང་ནས་སོ་སོའི་མཆན་བཀོད་རོགས་གནང་། མཆན་དེ་མ་ཐག་ཏུ་གཟིགས་མི་ཐུབ་པ་དང་འབྲེལ་ཡོད་འགན་འཛིན་གྱིས་ང་ཚོའི་སྒྲིག་འཛུགས་ཀྱི་<a href='/tibetan/about/terms-of-use.html'>ནང་དོན་སྤྱོད་ཕྱོགས་</a>དང་བསྟུན་ནས་བསྒྱུར་བཅོས་དང་ཕྱོགས་སྒྲིག་བྱེད་དེ་དྲ་གནས་ཐོག་ཁྱབ་སྤེལ་བྱ་སྲིད། མཆན་གྱི་ནང་དོན་ཐད་ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་ལ་འགན་གང་ཡང་མེད་པ་དང་། མཆན་གཞག་གནང་སྐབས་གཞན་གྱི་ཚོར་སྣང་ལ་བརྩི་མཐོང་དང་དངོས་འབྲེལ་ལ་ཐུགས་སྣང་གནང་རོགས་ཞུ༎"
+
+#. Default: "Thank you for your comment. Comments are approved by a moderator and can be edited in accordance with <a href='/english/about/terms-of-use.html'>RFA's Terms of Use</a>. Comments will not appear in real time."
+#: e/skins/rfa2_shared/story_comments_macros.pt:84
+msgid "comment_confirmation"
+msgstr ""
+
+#. Default: "Name (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:100
+msgid "label_commenter_name"
+msgstr "མིང༌། ༼འདོད་མོས།༽"
+
+#. Default: "City (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:110
+msgid "label_commenter_city"
+msgstr "གྲོང་ཁྱེར། ༼འདོད་མོས།༽"
+
+#. Default: "Please type the characters you see in the image."
+#: e/skins/rfa2_shared/story_comments_macros.pt:120
+msgid "label_captcha"
+msgstr "པར་གྱི་ཐོག་ཡོད་པའི་ཡིག་འབྲུ་རྣམས་འགོད་རོགས།"
+
+#. Default: "Comment (Required)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:146
+msgid "label_comment_body_text"
+msgstr "མཆན། ༼ངེས་པར་དགོས།༽"
+
+#. Default: "Submit"
+#: e/skins/rfa2_shared/story_comments_macros.pt:160
+msgid "submit_comments_button"
+msgstr "ཡར་འབུལ།"
+
+#. Default: "Return to story"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:30
+msgid "return_to_story"
+msgstr "གནས་ཚུལ་ལ་ཕྱིར་ལོག"
+
+#. Default: "Please submit a body."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "body_required"
+msgstr "མཆན་འཇོག་ས་དངོས་ནང་ཡི་གེ་འཇུག་རོགས།"
+
+#. Default: "Please type the characters in the image."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "captcha_required"
+msgstr "རེ་མོའི་ནང་ཡོད་པའི་ཡི་གེ་འགོད་རོགས།"
+
+#. Default: "Please submit a text."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "text_required"
+msgstr "ཁྱེད་ཀྱི་མཆན་འགོད་ཆེད་འདི་གནོན།"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa/story_comments_macros.pt:15
+msgid "comments_addyours"
+msgstr "<a href='discussion_reply_form/#commentsbox'>ཁྱེད་ཀྱི་མཆན་འགོད་ཆེད་འདི་གནོན།</a>"
+
+#. Default: "Your comment has been submitted for moderation, and should appear shortly."
+#: e/skins/rfa/story_comments_macros.pt:51
+msgid "comment_confirmation"
+<<<<<<< .working
+msgstr "མཆན་བཀོད་པར་ཐུགས་རྗེ་ཆེ། མཆན་རྣམས་སྟངས་འཛིན་པས་འདི་ག་རླུང་འཕྲིན་ཁང་གི་ཁྲིམས་སྲོལ་མཐུན་ཆེད་ང་ཚོས་བཅོས་སྒྲིག་བྱེད་ཆོག་གི་ཡོད། མཆན་རྣམས་ལམ་སེང་གཟིགས་མི་ཐུབ།"
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[མཆན་འབྲེལ་ཡོད་འགན་འཛིན་གྱིས་ང་ཚོའི་སྒྲིག་འཛུགས་ཀྱི་ནང་དོན་སྤྱོད་ཕྱོགས་དང་བསྟུན་ནས་བསྒྱུར་བཅོས་བཏང་ཡོད།]"
+
+#:mobile morenews dropdown
+msgid "more_news"
+msgstr "དྲ་གནས་ཚན་པ།"
+
+#: rfamobile social bar
+msgid "follow_us"
+msgstr "ང་ཚོའི་རྗེས་སུ་འབྲོངས།"
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» དེ་བས་མང་བར་གཟིགས།"
+
+#: rfamobile hide more
+#:XXX Incorrect
+msgid "hide_more"
+msgstr "«  དེ་བས་མང་བར་གཟིགས།"
+
+#: rfamobile self report
+msgid "self_report_title"
+msgstr "ཁྱེད་ལ་གནས་ཚུལ་བཤད་ཡག་ཡོད་དམ།"
+
+#: rfamobile self report content
+msgid "self_report_content"
+msgstr "ཁྱེད་ལ་གནས་ཚུལ་བྱུང་རིམ་བཞིན་ང་ཚོར་ཐོངས་རོགས།"
+
+#: rfamobile full site
+msgid "rfamobile_fullversion"
+msgstr "དྲ་གནས་ཆ་ཚང༌།"
+
+#: rfamobile story toolbar
+msgid "tools"
+msgstr "བཀོལ་སྤྱོད་ལག་ཆ།"
+
+#: rfamobile "back to <section>"
+msgid "backtosection"
+msgstr  "${sectionTitle}༡་ལ་ཕྱིར་ལོག"
+
+#: rfamobile story_main "more from <sectionTitle>"
+msgid "more_stories_from_section"
+msgstr "${sectionTitle}སྡེ་ཚན་གྱི་དེ་བས་མང་བ།"
+
+# skins/rfa_mobile/contactus_form.cpt
+#: default Send us your comments and feedback
+#XXX This should be content
+msgid "contactus_intro"
+msgstr "ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་བོད་སྐད་སྡེ་ཚན་ལ་འབྲེལ་བ་གནང་སྟངས།<br><br>སྦྲག་ཐོག་དང་ཞལ་པར་ཐོག་འབྲེལ་བ་གནས་སྟངས།<br><br>ཁ་བྱང༌།<br><br>Radio Free Asia<br>2025 M Street NW, Suite 300<br>Washington, DC 20036 USA<br><br>ཞལ་པར་ཨང་གྲངས།<br><br>བྱང་ཨ་མེ་རི་ཀའི་ཞལ་པར་ཨང་གྲངས།<br><br>202-530-4900<br><br>རྒྱལ་སྤྱིའི་ཞལ་པར་ཨང་གྲངས།<br><br>011-202-530-4900<br><br>ཨེ་མེལ་བརྒྱུད་དགོངས་ཚུལ་དང་དྲི་བ་གནང་ཡུལ།<br><br>Tibetan—tibetnews@rfa.org"
+
+#: rfamobile contact us
+msgid "label_subject"
+msgstr "བརྗོད་གཞི།"
+
+#: rfamobile contact us
+msgid "label_message"
+msgstr "བརྡ་ལན།"
+
+#. Default: "Back to article"
+#. /skins/rfa_mobile/email_story_confirm.pt
+#XXX Need Translation
+#msgid "backToArticle"
+#msgstr ""
+
+#: skins/rfa_mobile/selfreport_form
+msgid "twitter_id"
+msgstr "ཊཝི་ཊར་ངོ་སྤྲོད།"
+
+#: rfamobile self-report form:
+msgid "selfreport_terms"
+msgstr "ཁྱེད་ཀྱིས་འགེངས་གནས་འདི་སྤྱད་ཚེ་གཤམ་འཁོད་ ལ་ངོས་ལེན་བྱས་ཡོད།ང་ཚོས་མཆན་མ་སྤེལ་གོང་ཉམས་ཞིབ་བྱེད་རྒྱུ་ཡིན།མཆན་བཞག་ཚད་ སྤེལ་གྱི་མེད།ཁྱེད་ཀྱིས་བཞག་པའི་མཆན་སྤེལ་ཆོག་མིན་ཨེ་ཤེ་ཡ་རང་དབང་རླུང་ འཕྲིན་ཁང་ལ་དབང་ཆ་ཡོད།"
+
+#: Mobapp audioclips.xml
+msgid "daily_broadcast"
+msgstr "ཉིན་རེའི་གསར་འགྱུར།"=======
+msgstr "མཆན་བཀོད་པར་ཐུགས་རྗེ་ཆེ། མཆན་རྣམས་སྟངས་འཛིན་པས་འདི་ག་རླུང་འཕྲིན་ཁང་གི་ཁྲིམས་སྲོལ་མཐུན་ཆེད་ང་ཚོས་བཅོས་སྒྲིག་བྱེད་ཆོག་གི་ཡོད། མཆན་རྣམས་ལམ་སེང་གཟིགས་མི་ཐུབ།"
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[མཆན་འབྲེལ་ཡོད་འགན་འཛིན་གྱིས་ང་ཚོའི་སྒྲིག་འཛུགས་ཀྱི་ནང་དོན་སྤྱོད་ཕྱོགས་དང་བསྟུན་ནས་བསྒྱུར་བཅོས་བཏང་ཡོད།]"
+
+#:mobile morenews dropdown
+msgid "more_news"
+msgstr "དྲ་གནས་ཚན་པ།"
+
+#: rfamobile social bar
+msgid "follow_us"
+msgstr "ང་ཚོའི་རྗེས་སུ་འབྲོངས།"
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» དེ་བས་མང་བར་གཟིགས།"
+
+#: rfamobile hide more
+#:XXX Incorrect
+msgid "hide_more"
+msgstr "«  དེ་བས་མང་བར་གཟིགས།"
+
+#: rfamobile self report
+msgid "self_report_title"
+msgstr "ཁྱེད་ལ་གནས་ཚུལ་བཤད་ཡག་ཡོད་དམ།"
+
+#: rfamobile self report content
+msgid "self_report_content"
+msgstr "ཁྱེད་ལ་གནས་ཚུལ་བྱུང་རིམ་བཞིན་ང་ཚོར་ཐོངས་རོགས།"
+
+#: rfamobile full site
+msgid "rfamobile_fullversion"
+msgstr "དྲ་གནས་ཆ་ཚང༌།"
+
+#: rfamobile story toolbar
+msgid "tools"
+msgstr "བཀོལ་སྤྱོད་ལག་ཆ།"
+
+#: rfamobile "back to <section>"
+msgid "backtosection"
+msgstr  "${sectionTitle}༡་ལ་ཕྱིར་ལོག"
+
+#: rfamobile story_main "more from <sectionTitle>"
+msgid "more_stories_from_section"
+msgstr "${sectionTitle}སྡེ་ཚན་གྱི་དེ་བས་མང་བ།"
+
+# skins/rfa_mobile/contactus_form.cpt
+#: default Send us your comments and feedback
+#XXX This should be content
+msgid "contactus_intro"
+msgstr "ཨེ་ཤེ་ཡ་རང་དབང་རླུང་འཕྲིན་ཁང་གི་བོད་སྐད་སྡེ་ཚན་ལ་འབྲེལ་བ་གནང་སྟངས།<br><br>སྦྲག་ཐོག་དང་ཞལ་པར་ཐོག་འབྲེལ་བ་གནས་སྟངས།<br><br>ཁ་བྱང༌།<br><br>Radio Free Asia<br>2025 M Street NW, Suite 300<br>Washington, DC 20036 USA<br><br>ཞལ་པར་ཨང་གྲངས།<br><br>བྱང་ཨ་མེ་རི་ཀའི་ཞལ་པར་ཨང་གྲངས།<br><br>202-530-4900<br><br>རྒྱལ་སྤྱིའི་ཞལ་པར་ཨང་གྲངས།<br><br>011-202-530-4900<br><br>ཨེ་མེལ་བརྒྱུད་དགོངས་ཚུལ་དང་དྲི་བ་གནང་ཡུལ།<br><br>Tibetan—tibetnews@rfa.org"
+
+#: rfamobile contact us
+msgid "label_subject"
+msgstr "བརྗོད་གཞི།"
+
+#: rfamobile contact us
+msgid "label_message"
+msgstr "བརྡ་ལན།"
+
+#. Default: "Back to article"
+#. /skins/rfa_mobile/email_story_confirm.pt
+#XXX Need Translation
+#msgid "backToArticle"
+#msgstr ""
+
+#: skins/rfa_mobile/selfreport_form
+msgid "twitter_id"
+msgstr "ཊཝི་ཊར་ངོ་སྤྲོད།"
+
+#: rfamobile self-report form:
+msgid "selfreport_terms"
+msgstr "ཁྱེད་ཀྱིས་འགེངས་གནས་འདི་སྤྱད་ཚེ་གཤམ་འཁོད་ ལ་ངོས་ལེན་བྱས་ཡོད།ང་ཚོས་མཆན་མ་སྤེལ་གོང་ཉམས་ཞིབ་བྱེད་རྒྱུ་ཡིན།མཆན་བཞག་ཚད་ སྤེལ་གྱི་མེད།ཁྱེད་ཀྱིས་བཞག་པའི་མཆན་སྤེལ་ཆོག་མིན་ཨེ་ཤེ་ཡ་རང་དབང་རླུང་ འཕྲིན་ཁང་ལ་དབང་ཆ་ཡོད།">>>>>>> .merge-right.r5583

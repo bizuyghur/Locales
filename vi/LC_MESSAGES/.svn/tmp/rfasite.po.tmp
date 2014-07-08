@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rfasite-snap_20061115\n"
+"POT-Creation-Date: Fri Dec  8 16:27:03 2006\n"
+"PO-Revision-Date: 2007-03-30 15:13-0500\n"
+"Last-Translator: Joshua Edelstein <edelsteinj@rfa.org>\n"
+"Language-Team: RFA Plone CMS <plone@rfa.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: vi\n"
+"Language-Name: Vietnamese\n"
+"Preferred-Encodings: utf8\n"
+"Domain: rfasite\n"
+
+#. Default: "English"
+#: e/skins/rfa_retail/main_template.pt:39
+msgid "banner_english"
+msgstr "English Home Page"
+
+#. Default: "Help"
+#: e/skins/rfa_retail/main_template.pt:37
+msgid "banner_help"
+msgstr "Giúp đỡ"
+
+#. Default: "Text Only"
+#: e/skins/rfa_retail/main_template.pt:41
+msgid "banner_text_only"
+msgstr "Bản chỉ có chữ"
+
+#. Default: "About RFA"
+#: e/skins/rfa_retail/main_template.pt:337
+msgid "footer_about_rfa"
+msgstr "Về RFA"
+
+#. Default: "Broadcasting Board of Governors"
+#: e/skins/rfa_retail/main_template.pt:353
+msgid "footer_board_of_governors"
+msgstr "Ban Quản Trị"
+
+#. Default: "Contact Us"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_contact_us"
+msgstr "Liên lạc"
+
+#. Default: "FAQs"
+#: e/skins/rfa_retail/main_template.pt:343
+msgid "footer_faqs"
+msgstr "Những câu hỏi thường gặp"
+
+#. Default: "Jobs"
+#: e/skins/rfa_retail/main_template.pt:340
+msgid "footer_jobs"
+msgstr "Việc làm"
+
+#. Default: "Site Map"
+#: e/skins/rfa_retail/main_template.pt:346
+msgid "footer_site_map"
+msgstr "Sơ đồ trang web"
+
+#. Default: "Technical Help"
+#: e/skins/rfa_retail/main_template.pt:334
+#: e/skins/rfa_retail/main_template.pt:356
+msgid "footer_technical_help"
+msgstr "Hỗ trợ kỹ thuật"
+
+#. Default: "Download story audio"
+#: e/skins/rfa/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "Tải xuống âm thanh"
+
+#. Default: "E-mail this story"
+#: e/skins/rfa/story_macros.pt:106
+msgid "story_email"
+msgstr "Email bản tin này"
+
+#. Default: "Most viewed stories"
+#: e/skins/rfa_retail/story_main.pt:59
+msgid "most_viewed_stories"
+msgstr "bài được đọc nhiều nhất"
+
+#. Default: "Most e-mailed stories"
+#: e/skins/rfa_retail/story_main.pt:76
+msgid "most_emailed_stories"
+msgstr "bài được email nhiều nhất"
+
+
+#. Default: "Popular stories - last week"
+#: e/skins/rfa_retail/story_main.pt:37
+msgid "popular_stories_week"
+msgstr "Những bài được đọc nhiều nhất tuần qua"
+
+#. Default: "Popular stories - last month"
+#: e/skins/rfa_retail/story_main.pt:46
+msgid "popular_stories_month"
+msgstr "Những bài được đọc nhiều nhất tháng qua"
+
+#. Default: "Recently commented stories"
+#: e/skins/rfa_retail/story_main.pt:55
+msgid "recent_comments"
+msgstr "Những ý kiến gần đây nhất"
+
+#. Default: "Download this story"
+#: e/skins/rfa/story_macros.pt:106
+msgid "download_story"
+msgstr "Tải xuống bài này"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "Phần âm thanh"
+
+#. Default "Listen to or download the story"
+#: e/skins/rfa_shared/story_macros/storytop
+msgid "story_listen_download_audio"
+msgstr "Nghe hoặc Tải xuống"
+
+#. Default: "Print..."
+#: e/skins/rfa/story_macros.pt:126
+msgid "story_print"
+msgstr "In bản tin này"
+
+#. Default: "Subscribe to email newsletter"
+#: e/skins/rfa/story_macros.pt:116
+msgid "story_subscribe_newsletter"
+msgstr "Đăng ký bản tin"
+
+#. Default: "Story Tools"
+#: e/skins/rfa/story_macros.pt:77
+msgid "story_tools"
+msgstr "Những công cụ trợ giúp"
+
+#. Default: "Email Address"
+#: e/skins/rfa_retail/main_template.pt:302
+msgid "subscribe_email_address"
+msgstr "Địa chỉ e-mail"
+
+#. Default: "Privacy Policy"
+#: e/skins/rfa_retail/main_template.pt:349
+msgid "footer_privacypolicy"
+msgstr "Nguyên tắc tư riêng"
+
+#. Default: "Terms of Use"
+#: e/skins/rfa_retail/main_template.pt:355
+msgid "footer_terms_of_use"
+msgstr "Nguyên tắc sử dụng "
+
+#. Default: "webmaster"
+#: e/skins/rfa_retail/main_template.pt:327
+msgid "service_email"
+msgstr "vietweb@rfa.org"
+
+#. Default: "Listen to Program Segments"
+#: e/skins/rfa/audioarchive_macros.pt:26
+msgid "archive_listen_to_segments"
+msgstr "Chọn 1 trong các chương trình dưới đây"
+
+#. Default: "Download"
+#: e/skins/rfa/audioarchive_macros.pt:46
+msgid "archive_download_button"
+msgstr "Nghe hoặc Tải xuống"
+
+#. Default: "Stream Audio"
+#: e/skins/rfa/audioarchive_macros.pt:47
+msgid "archive_stream_button"
+msgstr "Âm thanh trực tuyến"
+
+#. Default: "Download Audio Player"
+#: e/skins/rfa/audioarchive_macros.pt:61
+msgid "archive_download_audio_player"
+msgstr "Tải xuống các Audio Player"
+
+#. Default: "Related Stories"
+#: e/skins/rfa/story_macros.pt:157
+msgid "story_related_stories"
+msgstr "Tin, bài liên quan"
+
+#. Default: "Send this page to somebody"
+#: e/skins/rfa_retail/sendto_form.cpt:17
+msgid "heading_send_page_to"
+msgstr "Gửi trang này cho bạn"
+
+#. Default: "Fill in the email address of your friend to send an email with the address."
+#: e/skins/rfa_retail/sendto_form.cpt:20
+msgid "description_send_page_to"
+msgstr "Điền địa chỉ email của người bạn muốn gửi bài này"
+
+#. Default: "Address info"
+#: e/skins/rfa_retail/sendto_form.cpt:34
+msgid "legend_address_info"
+msgstr "Thông tin "
+
+#. Default: "Send to"
+#: e/skins/rfa_retail/sendto_form.cpt:41
+msgid "label_send_to_mail"
+msgstr "Gửi đi"
+
+#. Default: "(Required)"
+#: e/skins/rfa_retail/sendto_form.cpt:45
+#XXX Remove parens and merge with 'required' below
+msgid "label_required"
+msgstr "(Yêu cầu)"
+
+#. Default: "(Required)"
+#: e/skins/rfa_retail/sendto_form.cpt:45
+msgid "required"
+msgstr "Yêu cầu"
+
+#. Default: "The e-mail address to send this link to."
+#: e/skins/rfa_retail/sendto_form.cpt:48
+msgid "help_send_to_mail"
+msgstr "Địa chỉ email mà bạn muốn gửi đến"
+
+#. Default: "From"
+#: e/skins/rfa_retail/sendto_form.cpt:68
+msgid "label_send_from"
+msgstr "Từ"
+
+#. Default: "Your email address."
+#: e/skins/rfa_retail/sendto_form.cpt:74
+msgid "help_send_from"
+msgstr "Địa chỉ email của bạn"
+
+#. Default: "Comment"
+#: e/skins/rfa_retail/sendto_form.cpt:93
+msgid "label_comment"
+msgstr "Lời nhắn"
+
+#. Default: "A comment about this link."
+#: e/skins/rfa_retail/sendto_form.cpt:95
+msgid "help_comment_to_link"
+msgstr "Lời nhắn về bài bạn muốn gửi"
+
+#. Default: "Send"
+#: e/skins/rfa_retail/sendto_form.cpt:117
+msgid "label_send"
+msgstr "Gửi đi"
+
+#. Default: "Search"
+#: e/skins/rfa_retail/main_template.pt:52
+msgid "button_search_site"
+msgstr "Tìm kiếm"
+
+#. Default: "Subscribe to Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:14
+msgid "heading_subscribe_newsletter"
+msgstr "Đăng ký bản tin"
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa_retail/subscribenewsletter.pt:15
+msgid "description_subscribe_newsletter"
+msgstr "Đánh địa chỉ email của bạn vào để nhận bản tin RFA hàng ngày"
+
+#. Default: "Your e-mail address"
+#: e/skins/rfa_retail/subscribenewsletter.pt:19
+msgid "label_subscribe_newsletter"
+msgstr "Địa chỉ email của bạn"
+
+#. Default: "Search"
+#: e/skins/rfa_retail/main_template.pt:52
+msgid "button_search_site"
+msgstr "Tìm kiếm"
+
+#. Default: "Code of Ethics"
+#: e/skins/rfa_retail/main_template.pt:380
+msgid "footer_code_of_ethics"
+msgstr "Quy tắc đạo đức nghề nghiệp"
+
+#. Default: "Frequencies"
+#: e/skins/rfa_retail/main_template.pt:383
+msgid "footer_frequencies"
+msgstr "Tần số"
+
+#. Default: "U.S. International Broadcasting"
+#: e/skins/rfa_retail/main_template.pt:403
+msgid "footer_ibb"
+msgstr "Đài phát thanh quốc tế tại Hoa Kỳ"
+
+#. Default: "Voice of America"
+#: e/skins/rfa_retail/main_template.pt:407
+msgid "footer_voa"
+msgstr "Ban Việt ngữ đài VOA"
+
+#. Default: "http://www.voanews.com"
+#: e/skins/rfa_retail/main_template.pt:406
+msgid "footer_voa_subsite"
+msgstr "http://www.voanews.com/vietnamese/"
+
+#. Default: "Get Newsletter"
+#: e/skins/rfa_retail/subscribenewsletter.pt:32
+msgid "subscribe_getnewsletter_button"
+msgstr "Nhận bản tin"
+
+#. Default: "Listen to Audio"
+#: e/skins/rfa_retail/listennow.pt:18
+msgid "linkto_audioarchive"
+msgstr "Âm Thanh"
+
+#. Default: "Show Images"
+#: e/skins/rfa_retail/main_template.pt:93
+msgid "banner_show_images"
+msgstr "Hiện rõ hình ảnh"
+
+#. Default: "Podcasts"
+#: e/skins/rfa_retail/main_template.pt:375
+msgid "podcast_link"
+msgstr "Podcasts"
+
+#. Default: "RSS Feeds"
+#: e/skins/rfa_retail/main_template.pt:381
+msgid "rss_link"
+msgstr "RSS Feeds"
+
+#. Default: "404 - Page Not Found"
+#: e/skins/rfa_retail/main_template.pt:138
+msgid "404_header"
+msgstr "404 – Không tìm thấy trang này"
+
+#. Default: "Our apologies... the page you're looking for could not be found on our system.	If you followed a link or typed the URL correctly the content may have been moved, deleted or temporarily retracted. Please click the "back" button in your browser or go to our <a href="/english/">homepage</a>. You may also use our search or archive to find RFA content by topic or date."
+#: e/skins/rfa_retail/main_template.pt:139
+msgid "404_message"
+msgstr "Chúng tôi xin lỗi… hệ thống của chúng tôi không tìm thấy trang web mà bạn muốn. Nếu bạn sử dụng đường link hay đánh vào địa chỉ đường link, nội dung của trang web đó có thể đã bị chuyển đi, xoá bỏ hoặc tạm thời thu hồi. Xin hãy bấm vào nút Back (trở lại) hoặc vào trang chính của chúng tôi. Bạn cũng có thể tìm kiếm những đề tài liên quan hoặc cùng ngày bằng hệ thống tìm kiếm hoặc lưu trữ của chúng tôi."
+
+#. Default: "Story Archive"
+#: e/skins/rfa_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "Trang lưu trữ"
+
+#. Default: "Please use the calendar below to search for articles from RFA's archive. Use the calendar arrows or the year and month pull-down menus to select past months and the calendar to select a specific day. Relevant stories will appear at the right."
+#: e/skins/rfa_retail/story_archive.pt:11
+msgid "story_archive_message"
+msgstr "Xin hãy sử dụng bảng lịch dưới đây để tìm kiếm trong phần lưu trữ của RFA. Sử dụng mũi tên của bảng lịch hoặc pull-down menus để chọn tháng và ngày chính xác."
+
+#. Default: "Select year and month:"
+#: e/skins/rfa_retail/story_archive.pt:21
+msgid "story_archive_select"
+msgstr "Chọn năm và tháng:"
+
+#. Default: "January"
+#: e/skins/rfa_retail/story_archive.pt:31
+msgid "story_archive_month01"
+msgstr "Tháng 1"
+
+#. Default: "February"
+#: e/skins/rfa_retail/story_archive.pt:32
+msgid "story_archive_month02"
+msgstr "Tháng 2"
+
+#. Default: "March"
+#: e/skins/rfa_retail/story_archive.pt:33
+msgid "story_archive_month03"
+msgstr "Tháng 3"
+
+#. Default: "April"
+#: e/skins/rfa_retail/story_archive.pt:34
+msgid "story_archive_month04"
+msgstr "Tháng 4"
+
+#. Default: "May"
+#: e/skins/rfa_retail/story_archive.pt:35
+msgid "story_archive_month05"
+msgstr "Tháng 5"
+
+#. Default: "June"
+#: e/skins/rfa_retail/story_archive.pt:36
+msgid "story_archive_month06"
+msgstr "Tháng 6"
+
+#. Default: "July"
+#: e/skins/rfa_retail/story_archive.pt:37
+msgid "story_archive_month07"
+msgstr "Tháng 7"
+
+#. Default: "August"
+#: e/skins/rfa_retail/story_archive.pt:38
+msgid "story_archive_month08"
+msgstr "Tháng 8"
+
+#. Default: "September"
+#: e/skins/rfa_retail/story_archive.pt:39
+msgid "story_archive_month09"
+msgstr "Tháng 9"
+
+#. Default: "October"
+#: e/skins/rfa_retail/story_archive.pt:40
+msgid "story_archive_month10"
+msgstr "Tháng 10"
+
+#. Default: "November"
+#: e/skins/rfa_retail/story_archive.pt:41
+msgid "story_archive_month11"
+msgstr "Tháng 11"
+
+#. Default: "December"
+#: e/skins/rfa_retail/story_archive.pt:42
+msgid "story_archive_month12"
+msgstr "Tháng 12"
+
+#. Default: "Su"
+#: e/skins/rfa_retail/story_archive.pt:77
+msgid "story_archive_su"
+msgstr "CN"
+
+#. Default: "Mo"
+#: e/skins/rfa_retail/story_archive.pt:78
+msgid "story_archive_mo"
+msgstr "Hai"
+
+#. Default: "Tu"
+#: e/skins/rfa_retail/story_archive.pt:79
+msgid "story_archive_tu"
+msgstr "Ba"
+
+#. Default: "We"
+#: e/skins/rfa_retail/story_archive.pt:80
+msgid "story_archive_we"
+msgstr "Tư"
+
+#. Default: "Th"
+#: e/skins/rfa_retail/story_archive.pt:81
+msgid "story_archive_th"
+msgstr "Năm"
+
+#. Default: "Fr"
+#: e/skins/rfa_retail/story_archive.pt:82
+msgid "story_archive_fr"
+msgstr "Sáu"
+
+#. Default: "Sa"
+#: e/skins/rfa_retail/story_archive.pt:83
+msgid "story_archive_sa"
+msgstr "Bảy"
+
+#. Default: "Results"
+#: e/skins/rfa_retail/story_archive.pt:110
+msgid "story_archive_results"
+msgstr "Kết quả: "
+
+#. Default: "Search Results"
+#: e/skins/rfa_retail/search.pt:14
+msgid "heading_search_results"
+msgstr "Kết quả tìm kiếm"
+
+#. Default: "${number} items matching your criteria."
+#: e/skins/rfa_retail/search.pt:26
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} những bài phù hợp yêu cầu của bạn."
+
+#. Default: "No results found."
+#: e/skins/rfa_retail/search.pt:18
+msgid "description_no_results_found"
+msgstr "Kết quả: không tìm thấy."
+
+#. Default: "Next ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:43
+msgid "batch_next_x_items"
+msgstr "Những bài tiếp theo ${number}"
+
+#. Default: "Previous ${number} items"
+#: e/skins/rfa_retail/batch_macros.pt:30
+msgid "batch_previous_x_items"
+msgstr "Những bài trước đây ${number}"
+
+#. Default: "Home"
+#: e/skins/rfa_retail/main_template.pt:168
+msgid "subsite_home"
+msgstr "Trang Chính"
+
+#. Default: "Share this story"
+#: e/skins/rfa/story_macros.pt:160
+msgid "addthis_share"
+msgstr "Chia sẻ bài này"
+
+<<<<<<< .working
+#. Default: "Radio Free Asia"
+#:
+msgid "radio_free_asia"
+msgstr "Đài Á Châu Tự Do"
+
+=======
+#. Default: "Radio Free Asia"
+#: 
+msgid "radio_free_asia"
+msgstr "Đài Á Châu Tự Do"
+
+>>>>>>> .merge-right.r5583
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa/story_macros.pt:152
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'Đài Á Châu Tự Do'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'Lưu lại và Chia sẻ',more:'Thêm…'};"
+
+
+<<<<<<< .working
+################################################
+#####                                      #####
+#####   HERE BEGIN THE RFA2 TRANSLATIONS   #####
+#####                                      #####
+################################################
+
+#. Default: "Features"
+#: e/skins/rfa2_vi/service_onecolumntop.pt:87
+msgid "features"
+msgstr "Thời Sự"
+
+#. Default: "View older stories >>"
+#: e/skins/rfa2_shared/section_macros.pt:65
+msgid "view_older_stories"
+msgstr "Xem tiếp >>"
+
+#. Default: "Search"
+#: e/skins/rfa2_retail/main_template.pt:177
+msgid "value_search"
+msgstr "Tìm kiếm"
+
+#. Default: "E-mail"
+#: e/skins/rfa2_shared/story_macros.pt:135
+msgid "storytool_email"
+msgstr "Email"
+
+#. Default: "Comment"
+#: e/skins/rfa2_shared/story_macros.pt:130
+msgid "storytool_comment"
+msgstr "Ý kiến của Bạn"
+
+#. Default: "Share"
+#: e/skins/rfa2_shared/story_macros.pt:125
+msgid "storytool_share"
+msgstr "Chia sẻ"
+
+#. Default: "Print"
+#: e/skins/rfa2_shared/story_macros.pt:120
+msgid "storytool_print"
+msgstr "In trang này"
+
+#. Default: "Editor's Pick"
+#: e/skins/rfa2_shared/service_macros.pt:170
+msgid "editors_pick"
+msgstr "XEM VIDEO TIN TỨC, THỜI SỰ"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa2_shared/story_macros.pt:268
+msgid "click_here_comment"
+msgstr "Bấm vào đây để nêu ý kiến của bạn"
+
+#. Default: "Home"
+#: e/skins/rfa2_retail/main_template.pt:196
+msgid "service_home"
+msgstr "Trang Chính"
+
+#. Default: "Audio"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "audio"
+msgstr "Nghe audio"
+
+#. Default: "Video"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "video"
+msgstr "Xem video"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa2_shared/story_macros.pt:88
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'Đài Á Châu Tự Do'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'Lưu lại và Chia sẻ',more:'Thêm…'};"
+
+#. Default: "Download story audio"
+#: e/skins/rfa2_shared/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "Tải xuống âm thanh"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa2_shared/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "Phần âm thanh"
+
+#. Default: "Audio Archive"
+#: e/skins/rfa2_retail/audioarchive.pt:30
+msgid "audio_archive"
+msgstr "Nghe Đài"
+
+#. Default: "Get News Alerts"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:12
+msgid "heading_subscribe_newsletter"
+msgstr "Nhận tin tức từ RFA"
+
+#. Default: "To subscribe to our email news, simply send us your email address."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:15
+msgid "subscribe_message_one"
+msgstr "Để nhận bản tin RFA, hãy gửi cho chúng tôi địa chỉ email của Bạn."
+
+#. Default: "You will receive occasioinal news updates and press releases."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:19
+msgid "subscribe_message_two"
+msgstr "Bạn sẽ nhận được tin tức cập nhật từ RFA."
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:22
+msgid "description_subscribe_newsletter"
+msgstr "Hãy điền địa chỉ email của Bạn vào đây để nhận tin."
+
+#. Default: "Enter email address"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:35
+msgid "value_subscriber_email"
+msgstr ""
+
+#. Default: "By sending us your email address, you adhere to RFA's <a href='/english/about/terms-of-use.html'>Terms of Use</a>."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:47
+msgid "agree_terms_of_use"
+msgstr "Đăng ký nhận tin từ RFA, Bạn cần tôn trọng những nguyên tắc sử dụng của RFA."
+
+#. Default: "Send Us Your News"
+#: e/skins/rfa2_retail/send_news_form.pt:33
+msgid "heading_send_news"
+msgstr "Báo tin cho RFA"
+
+#. Default: "We value your reporting.  Tell us the Where, What, When, Who, Why. Share your photos, audio or video with us through MMS or email to contact@rfa.org.  Alternately, send us your news stories and comments using the form below."
+#: e/skins/rfa2_retail/send_news_form.pt:36
+msgid "description_send_news"
+msgstr "Để tin tức của Bạn có giá trị sử dụng. Hãy cho chúng tôi biết rõ địa điểm, thời gian, chuyện gì đã xảy ra, liên quan đến những ai và nguyên nhân của sự việc.<br>Bạn có thể chia sẻ tin tức, hình ảnh, âm thanh hay video với RFA bằng MMS hay email đến vietweb@rfa.org.<br>Bạn cũng có thể gửi tin tức hoặc ý kiến đến RFA bằng cách điền vào mẫu dưới dây:"
+
+=======
+################################################
+#####                                      #####
+#####   HERE BEGIN THE RFA2 TRANSLATIONS   #####
+#####                                      #####
+################################################
+
+#. Default: "View older stories >>"
+#: e/skins/rfa2_shared/section_macros.pt:65
+msgid "view_older_stories"
+msgstr "Trang lưu trữ >>"
+
+#. Default: "Search"
+#: e/skins/rfa2_retail/main_template.pt:177
+msgid "value_search"
+msgstr "Tìm kiếm"
+
+#. Default: "E-mail"
+#: e/skins/rfa2_shared/story_macros.pt:135
+msgid "storytool_email"
+msgstr "Email"
+
+#. Default: "Comment"
+#: e/skins/rfa2_shared/story_macros.pt:130
+msgid "storytool_comment"
+msgstr "Ý kiến của Bạn"
+
+#. Default: "Share"
+#: e/skins/rfa2_shared/story_macros.pt:125
+msgid "storytool_share"
+msgstr "Chia sẻ"
+
+#. Default: "Print"
+#: e/skins/rfa2_shared/story_macros.pt:120
+msgid "storytool_print"
+msgstr "In trang này"
+
+#. Default: "Editor's Pick"
+#: e/skins/rfa2_shared/service_macros.pt:170
+msgid "editors_pick"
+msgstr "Tin, bài đáng chú ý"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa2_shared/story_macros.pt:268
+msgid "click_here_comment"
+msgstr "Bấm vào đây để nêu ý kiến của bạn"
+
+#. Default: "Home"
+#: e/skins/rfa2_retail/main_template.pt:196
+msgid "service_home"
+msgstr "Trang Chính"
+
+#. Default: "Audio"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "audio"
+msgstr "Nghe audio"
+
+#. Default: "Video"
+#: e/skins/rfa2_shared/story_macros.pt:195
+msgid "video"
+msgstr "Xem video"
+
+#. Default: "LOTS OF CODE"
+#: e/skins/rfa2_shared/story_macros.pt:88
+msgid "addthis_specs"
+msgstr "addthis_pub = 'radiofreeasia'; addthis_brand = 'Đài Á Châu Tự Do'; addthis_options = 'digg, facebook, delicious, myspace, reddit, linkedin, stumbleupon, twitter, buzz, more'; addthis_offset_top = 5; addthis_offset_left = -30; addthis_localize = {share_caption:'Lưu lại và Chia sẻ',more:'Thêm…'};"
+
+#. Default: "Download story audio"
+#: e/skins/rfa2_shared/story_macros.pt:96
+msgid "story_download_audio"
+msgstr "Tải xuống âm thanh"
+
+#. Default: "Listen to story audio"
+#: e/skins/rfa2_shared/story_macros.pt:86
+msgid "story_listen_audio"
+msgstr "Phần âm thanh"
+
+#. Default: "Audio Archive"
+#: e/skins/rfa2_retail/audioarchive.pt:30
+msgid "audio_archive"
+msgstr "Nghe Đài"
+
+#. Default: "Get News Alerts"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:12
+msgid "heading_subscribe_newsletter"
+msgstr "Nhận tin tức từ RFA"
+
+#. Default: "To subscribe to our email news, simply send us your email address."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:15
+msgid "subscribe_message_one"
+msgstr "Để nhận bản tin RFA, hãy gửi cho chúng tôi địa chỉ email của Bạn."
+
+#. Default: "You will receive occasioinal news updates and press releases."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:19
+msgid "subscribe_message_two"
+msgstr "Bạn sẽ nhận được tin tức cập nhật từ RFA."
+
+#. Default: "Enter your e-mail address to receive RFA news updates."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:22
+msgid "description_subscribe_newsletter"
+msgstr "Hãy điền địa chỉ email của Bạn vào đây để nhận tin."
+
+#. Default: "Enter email address"
+#: e/skins/rfa2_retail/subscribenewsletter.pt:35
+msgid "value_subscriber_email"
+msgstr ""
+
+#. Default: "By sending us your email address, you adhere to RFA's <a href='/english/about/terms-of-use.html'>Terms of Use</a>."
+#: e/skins/rfa2_retail/subscribenewsletter.pt:47
+msgid "agree_terms_of_use"
+msgstr "Đăng ký nhận tin từ RFA, Bạn cần tôn trọng những nguyên tắc sử dụng của RFA."
+
+#. Default: "Send Us Your News"
+#: e/skins/rfa2_retail/send_news_form.pt:33
+msgid "heading_send_news"
+msgstr "Báo tin cho RFA"
+
+#. Default: "We value your reporting.  Tell us the Where, What, When, Who, Why. Share your photos, audio or video with us through MMS or email to contact@rfa.org.  Alternately, send us your news stories and comments using the form below."
+#: e/skins/rfa2_retail/send_news_form.pt:36
+msgid "description_send_news"
+msgstr "Để tin tức của Bạn có giá trị sử dụng. Hãy cho chúng tôi biết rõ địa điểm, thời gian, chuyện gì đã xảy ra, liên quan đến những ai và nguyên nhân của sự việc.<br>Bạn có thể chia sẻ tin tức, hình ảnh, âm thanh hay video với RFA bằng MMS hay email đến vietweb@rfa.org.<br>Bạn cũng có thể gửi tin tức hoặc ý kiến đến RFA bằng cách điền vào mẫu dưới dây:"
+
+>>>>>>> .merge-right.r5583
+#. Default: "Comments"
+#: e/skins/rfa2_retail/send_news_form.pt:55
+msgid "label_comment"
+msgstr "Ý kiến"
+
+#. Default: "Name"
+#: e/skins/rfa2_retail/send_news_form.pt:71
+msgid "label_name"
+msgstr "Tên"
+
+#. Default: "Country"
+#: e/skins/rfa2_retail/send_news_form.pt:87
+msgid "label_country"
+msgstr "Quốc gia"
+
+#. Default: "Enter the text below"
+#: e/skins/rfa2_retail/send_news_form.pt:103
+msgid "label_captcha"
+msgstr "Ý kiến của Bạn"
+
+#. Default: "Send"
+#: e/skins/rfa2_retail/send_news_form.pt:115
+msgid "label_send"
+msgstr "Gửi đi"
+
+#. Default: "Story Archive"
+#: e/skins/rfa2_retail/story_archive.pt:9
+msgid "story_archive_header"
+msgstr "Trang lưu trữ"
+
+#. Default: "All comments for"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:17
+msgid "all_comments_for"
+msgstr "Xem tất cả ý kiến về bài"
+
+#. Default: "Click here to add your own comment"
+#: e/skins/rfa/story_comments_macros.pt:15
+msgid "comments_addyours"
+msgstr "<a href='discussion_reply_form/#commentsbox'>Bấm vào đây để nêu ý kiến của bạn.</a>"
+
+#. Default: "Add your comment by filling out the form below in plain text. Comments are approved by a moderator and can be edited in accordance with  <a href='/english/about/terms-of-use.html'>RFAs Terms of Use</a>.  Comments will not appear in real time. RFA is not responsible for the content of the postings. Please, be respectful of others' point of view and stick to the facts."
+#: e/skins/rfa2_shared/story_comments_macros.pt:79
+msgid "comments_intro"
+msgstr "Bạn có thể đưa ý kiến của mình vào khung phía dưới. Ý kiến của Bạn sẽ được xem xét trước khi đưa lên trang web, phù hợp với <a href='http://www.rfa.org/vietnamese/about/terms-of-use.html'>Nguyên tắc sử dụng</a> của RFA. Ý kiến của Bạn sẽ không xuất hiện ngay lập tức. RFA không chịu trách nhiệm về nội dung các ý kiến. Hãy vui lòng tôn trọng các quan điểm khác biệt cũng như căn cứ vào các dữ kiện của vấn đề."
+
+#. Default: "Name (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:100
+msgid "label_commentor_name"
+msgstr "Họ tên (tùy chọn)"
+
+#. Default: "City (Optional)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:110
+msgid "label_commentor_city"
+msgstr "Nơi ở (tùy chọn)"
+
+#. Default: "Captcha (Required)"
+#: e/skins/rfa/story_macros.pt:123
+msgid "label_captcha"
+msgstr "Mã xác nhận (bắt buộc)"
+
+#. Default: "Please type the characters you see in the image."
+#: e/skins/rfa2_shared/story_comments_macros.pt:120
+msgid "help_captcha"
+msgstr "Hãy nhập vào các ký tự trong hình"
+
+#. Default: "Comment (Required)"
+#: e/skins/rfa2_shared/story_comments_macros.pt:146
+msgid "label_comment_body_text"
+msgstr "Ý kiến của Bạn"
+
+#. Default: "Submit"
+#: e/skins/rfa2_shared/story_comments_macros.pt:160
+msgid "submit_comments_button"
+msgstr "Gửi đi"
+
+#. Default: "Anonymous Reader"
+#: e/skins/rfa/story_macros.pt:160
+msgid "anonymous_reader"
+msgstr "Độc giả không muốn nêu tên"
+
+#. Default: "from"
+#: e/skins/rfa/story_macros.pt:160
+msgid "from_city"
+msgstr "nơi gửi"
+
+#. Default: "View all comments"
+#: e/skins/rfa/story_macros.pt:160
+msgid "view_all_comments"
+msgstr "Xem tất cả ý kiến"
+
+#. Default: "All Comments for"
+#: e/skins/rfa_retail/discussion_reply_form.cpt:16
+msgid "all_comments_for"
+msgstr "Tất cả các ý kiến của bạn đọc về"
+
+#. Default: "Return to story"
+#: e/skins/rfa2_retail/discussion_reply_form.cpt:30
+msgid "return_to_story"
+msgstr "Trở lại bài viết"
+
+#. Default: "Please submit a body."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "body_required"
+msgstr "Xin hãy đưa ý kiến của bạn vào ô trống."
+
+#. Default: "Please type the characters in the image."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "captcha_required"
+msgstr "Hãy nhập vào các ký tự trong hình."
+
+#. Default: "Please submit a text."
+#: e/skins/rfa/story_comments_macros.pt:115
+msgid "text_required"
+msgstr "Bấm vào đây để nêu ý kiến của bạn."
+
+#. Default: "Thank you for your comment. Comments are approved by a moderator and can be edited in accordance with <a href='/english/about/terms-of-use.html'>RFA's Terms of Use</a>. Comments will not appear in real time."
+#: e/skins/rfa2_shared/story_comments_macros.pt:84
+msgid "comment_confirmation"
+<<<<<<< .working
+msgstr "Ý kiến của bạn đã được gửi đến người điều hành, và sẽ sớm xuất hiện trên trang web."
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[Ý kiến này đã được biên tập cho phù hợp với Nguyên tắc sử dụng của RFA.]"
+
+#:mobile morenews dropdown
+msgid "more_news"
+msgstr "Phần của trang"
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» Xem thêm"
+
+#: rfamobile hide more
+msgid "hide_more"
+msgstr "« xem ít hơn"
+
+#: rfamobile self report
+msgid "self_report_title"
+msgstr "Bạn có tin tức cần báo?"
+
+#: rfamobile self report content
+msgid "self_report_content"
+msgstr "Chúng tôi hoan nghênh tin tức của bạn"
+
+#: rfamobile full site
+msgid "rfamobile_fullversion"
+msgstr "Xem toàn trang"
+
+# default: "About Us"
+# rfamobile footer_links_macro
+msgid "footer_about"
+msgstr "VỀ RFA"
+
+#: rfamobile self-report form:
+msgid "selfreport_terms"
+msgstr "Bạn đồng ý với điều khoản sau đây khi dùng mẫu đơn này: Mọi bình luận sẽ qua xét duyệt trước khi cho đăng. Cảnh báo - không phải nội dung nào cũng được đăng tải. RFA có quyền sử dụng bình luận của bạn trong bất kỳ hình thức truyền thông nào của RFA."
+
+#: rfamobile contact us
+msgid "label_subject"
+msgstr "Chủ đề"
+
+#: rfamobile contact us
+msgid "label_message"
+msgstr "Tin nhắn không được để trống"
+
+#: rfamobile Send us your comments and feedback
+msgid "contactus_intro"
+msgstr "Radio Free Asia<br><br>2025 M Street NW, Suite 300<br>Washington DC 20036, USA<br>202-530-4900 | vietweb@rfa.org"
+
+#: Mobapp audioclips.xml
+msgid "daily_broadcast"
+msgstr "Chương trình phát thanh"=======
+msgstr "Ý kiến của bạn đã được gửi đến người điều hành, và sẽ sớm xuất hiện trên trang web."
+
+#: skins/rfa_shared/edit_comment_form.pt
+msgid "edited_by_staff"
+msgstr "[Ý kiến này đã được biên tập cho phù hợp với Nguyên tắc sử dụng của RFA.]"
+
+#:mobile morenews dropdown
+msgid "more_news"
+msgstr "Phần của trang"
+
+#: rfamobile show more
+msgid "show_more"
+msgstr "» Xem thêm"
+
+#: rfamobile hide more
+msgid "hide_more"
+msgstr "« xem ít hơn"
+
+#: rfamobile self report
+msgid "self_report_title"
+msgstr "Bạn có tin tức cần báo?"
+
+#: rfamobile self report content
+msgid "self_report_content"
+msgstr "Chúng tôi hoan nghênh tin tức của bạn"
+
+#: rfamobile full site
+msgid "rfamobile_fullversion"
+msgstr "Xem toàn trang"
+
+# default: "About Us"
+# rfamobile footer_links_macro
+msgid "footer_about"
+msgstr "VỀ RFA"
+
+#: rfamobile self-report form:
+msgid "selfreport_terms"
+msgstr "Bạn đồng ý với điều khoản sau đây khi dùng mẫu đơn này: Mọi bình luận sẽ qua xét duyệt trước khi cho đăng. Cảnh báo - không phải nội dung nào cũng được đăng tải. RFA có quyền sử dụng bình luận của bạn trong bất kỳ hình thức truyền thông nào của RFA."
+
+#: rfamobile contact us
+msgid "label_subject"
+msgstr "Chủ đề"
+
+#: rfamobile contact us
+msgid "label_message"
+msgstr "Tin nhắn không được để trống"
+
+#: rfamobile Send us your comments and feedback
+msgid "contactus_intro"
+msgstr "Radio Free Asia<br><br>2025 M Street NW, Suite 300<br>Washington DC 20036, USA<br>202-530-4900 | vietweb@rfa.org">>>>>>> .merge-right.r5583
