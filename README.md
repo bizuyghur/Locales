@@ -1,7 +1,7 @@
 Locales
 =======
 
-These are the translation locals RFA uses for their public website.  Enjoy!
+These are the translation locales RFA uses for their public website.  Enjoy!
 
 bo = Tibetan<br>
 en = English<br>
