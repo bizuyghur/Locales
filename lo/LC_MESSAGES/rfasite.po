@@ -811,3 +811,19 @@ msgstr "ທ່ານ ສາມາດ ຕິດຕໍ່ ຫາພວກເຮົ
 #: Mobapp audioclips.xml
 msgid "daily_broadcast"
 msgstr "Daily Broadcast"
+
+#:Video Page 'keywords'
+msgid "keywords"
+msgstr "ຄໍາໄຂຣະຫັດ"
+#:Video Page "Most Watched"
+msgid "most_watched"
+msgstr "ເບິ່ງຫລາຍທີ່ສຸດ"
+#:Video Page "Related Videos"
+msgid "related_videos"
+msgstr "ວີດີໂອ ທີ່ຄ້າຍກັນر"
+#:Video Page "Recent Videos"
+msgid "recent_videos"
+msgstr "ວີດີໂອ ຫຼ້າສຸດر"
+#:Video Page search "Find Videos"
+msgid "find_videos"
+msgstr "ຊອກຫາ ວີດີໂອ"
