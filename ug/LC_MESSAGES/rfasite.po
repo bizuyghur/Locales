@@ -766,7 +766,3 @@ msgstr "يېڭى سىنلار"
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "سىن تېپىش"
-
-#:Videp Page "Latest Videos"
-msgid "latest_videos"
-msgstr "ئەڭ يېڭى سىنلار"
