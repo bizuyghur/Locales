@@ -841,27 +841,27 @@ msgstr "ཁྱེད་ཀྱིས་འགེངས་གནས་འདི་
 msgid "daily_broadcast"
 msgstr "ཉིན་རེའི་གསར་འགྱུར།"
 
-+#:Video Page 'keywords'
-	+msgid "keywords"
-	+msgstr "རྩ་ཚིགས་"
+#:Video Page 'keywords'
+msgid "keywords"
+msgstr "རྩ་ཚིགས་"
 	
-	+#:Video Page "Most Watched"
-	+msgid "most_watched"
-	+msgstr "མང་ཤོས་གཟིགས་པ་"
+#:Video Page "Most Watched"
+msgid "most_watched"
+msgstr "མང་ཤོས་གཟིགས་པ་"
 	
-	+#:Video Page "Related Videos"
-	+msgid "related_videos"
-	+msgstr "འབྲེལ་ཡོད་བརྙན་འཕྲིན་"
+#:Video Page "Related Videos"
+msgid "related_videos"
+msgstr "འབྲེལ་ཡོད་བརྙན་འཕྲིན་"
 
-	+#:Video Page "Recent Videos"
-	+msgid "recent_videos"
-	+msgstr "វីដេអូ​ថ្មីៗ"
+#:Video Page "Recent Videos"
+msgid "recent_videos"
+msgstr "វីដេអូ​ថ្មីៗ"
 	
-	+#:Video Page search "Find Videos"
-	+msgid "find_videos"
-	+msgstr "བརྙན་འཕྲིན་འཚོལ་"    
+#:Video Page search "Find Videos"
+msgid "find_videos"
+msgstr "བརྙན་འཕྲིན་འཚོལ་"    
 	
-	+#:Video Page "Show More"
-	+msgid "show_more_v"
-	+msgstr "ད་དུང་སྟོན་རོགས་"
+#:Video Page "Show More"
+msgid "show_more_v"
+msgstr "ད་དུང་སྟོན་རོགས་"
 	
