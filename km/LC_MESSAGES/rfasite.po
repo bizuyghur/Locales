@@ -776,7 +776,6 @@ msgstr "វីដេអូ​ថ្មីៗ"
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "រក​វីដេអូ"
-
 #:Video Page "Show More"
 msgid "show_more_v"
 msgstr "បង្ហាញ​ថែម​ទៀត"
