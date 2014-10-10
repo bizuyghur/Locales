@@ -855,7 +855,7 @@ msgstr "འབྲེལ་ཡོད་བརྙན་འཕྲིན་"
 
 #:Video Page "Recent Videos"
 msgid "recent_videos"
-msgstr "វីដេអូ​ថ្មីៗ"
+msgstr "ཉེ་སྔོན་བརྙན་འཕྲིན་"
 	
 #:Video Page search "Find Videos"
 msgid "find_videos"
