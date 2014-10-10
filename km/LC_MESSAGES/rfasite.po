@@ -778,5 +778,5 @@ msgid "find_videos"
 msgstr "រក​វីដេអូ"
 
 #:Video Page "Show More"
-msgid "more_videos"
+msgid "show_more_v"
 msgstr "បង្ហាញ​ថែម​ទៀត"
