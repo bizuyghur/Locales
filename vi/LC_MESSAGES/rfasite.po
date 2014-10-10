@@ -782,21 +782,26 @@ msgstr "Radio Free Asia<br><br>2025 M Street NW, Suite 300<br>Washington DC 2003
 msgid "daily_broadcast"
 msgstr "Chương trình phát thanh"
 
-+#:Video Page 'keywords'
-	+msgid "keywords"
-	+msgstr "Từ khoá"
-	+#:Video Page "Most Watched"
-	+msgid "most_watched"
-	+msgstr "Video xem nhiều nhất"
-	+#:Video Page "Related Videos"
-	+msgid "related_videos"
-	+msgstr "Video Liên quan"
-	+#:Video Page "Recent Videos"
-	+msgid "recent_videos"
-	+msgstr "Video mới nhất"
-	+#:Video Page search "Find Videos"
-	+msgid "find_videos"
-	+msgstr "Xem thêm"
-	+#:Video Page "Show More"
-	+msgid "show_more_v"
-	+msgstr "Xem thêm"
+#:Video Page 'keywords'
+msgid "keywords"
+msgstr "Từ khoá"
+
+#:Video Page "Most Watched"
+msgid "most_watched"
+msgstr "Video xem nhiều nhất"
+
+#:Video Page "Related Videos"
+msgid "related_videos"
+msgstr "Video Liên quan"
+
+#:Video Page "Recent Videos"
+msgid "recent_videos"
+msgstr "Video mới nhất"
+
+#:Video Page search "Find Videos"
+msgid "find_videos"
+msgstr "Xem thêm"
+
+#:Video Page "Show More"
+msgid "show_more_v"
+msgstr "Xem thêm"
