@@ -860,3 +860,7 @@ msgstr "最新视频"
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "查找视频"
+
+#:Videp Page "Latest Videos"
+msgid "latest_videos"
+msgstr "最新视频"
