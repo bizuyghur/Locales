@@ -862,6 +862,6 @@ msgstr "ཉིན་རེའི་གསར་འགྱུར།"
 	+msgstr "བརྙན་འཕྲིན་འཚོལ་"    
 	
 	+#:Video Page "Show More"
-	+msgid "more_videos"
+	+msgid "show_more_v"
 	+msgstr "ད་དུང་སྟོན་རོགས་"
 	
