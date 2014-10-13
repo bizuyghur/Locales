@@ -843,7 +843,7 @@ msgstr "ཉིན་རེའི་གསར་འགྱུར།"
 
 #:Video Page 'keywords'
 msgid "keywords"
-msgstr "རྩ་ཚིགས་"
+msgstr "རྩ་ཚིག་"
 	
 #:Video Page "Most Watched"
 msgid "most_watched"
