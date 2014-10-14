@@ -217,3 +217,27 @@ msgstr "Send"
 #: Mobapp audioclips.xml
 msgid "daily_broadcast"
 msgstr "Daily Broadcast"
+
+#: video page show more
+msgid "show_more_v"
+msgstr "Show More"
+
+#:Video Page 'keywords'
+msgid "keywords"
+msgstr "keywords"
+
+#:Video Page "Most Watched"
+msgid "most_watched"
+msgstr "Most Watched"
+
+#:Video Page "Related Videos"
+msgid "related_videos"
+msgstr "Related Videos"
+
+#:Video Page "Recent Videos"
+msgid "recent_videos"
+msgstr "Recent Videos"
+
+#:Video Page search "Find Videos"
+msgid "find_videos"
+msgstr "Find Videos"
