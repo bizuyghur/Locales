@@ -779,3 +779,7 @@ msgstr "រក​វីដេអូ"
 #:Video Page "Show More"
 msgid "show_more_v"
 msgstr "បង្ហាញ​ថែម​ទៀត"
+
+#:Video Page "Videos Tagged"
+msgid: "videos_tagged_X"
+msgstr: "វីដេអូ​ដែល​ទាក់ទង​នឹង %s"
