@@ -806,5 +806,6 @@ msgstr "Xem thêm"
 msgid "show_more_v"
 msgstr "Xem thêm"
 #:Video Page "Videos Tagged"
+
 msgid: "videos_tagged_X"
-msgstr: "Tin %s"
+msgstr: "Tin ${tag}"

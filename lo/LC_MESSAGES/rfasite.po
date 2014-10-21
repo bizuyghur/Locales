@@ -815,21 +815,27 @@ msgstr "Daily Broadcast"
 #:Video Page 'keywords'
 msgid "keywords"
 msgstr "ຄໍາໄຂຣະຫັດ"
+
 #:Video Page "Most Watched"
 msgid "most_watched"
 msgstr "ເບິ່ງຫລາຍທີ່ສຸດ"
+
 #:Video Page "Related Videos"
 msgid "related_videos"
 msgstr "ວີດີໂອ ທີ່ຄ້າຍກັນ"
+
 #:Video Page "Recent Videos"
 msgid "recent_videos"
 msgstr "ວີດີໂອ ຫຼ້າສຸດ"
+
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "ຊອກຫາ ວີດີໂອ"
+
 #:Video Page "Show More"
 msgid "show_more_v"
 msgstr "ຂໍເບິ່ງເພີ້ມ"
+
 #:Video Page "Videos Tagged"
-msgid: "videos_tagged_X"
-msgstr: "ໝວດ ວີດີໂອ %s"
+msgid "videos_tagged_X"
+msgstr "ໝວດ ວີດີໂອ ${tag}"

@@ -241,3 +241,7 @@ msgstr "Recent Videos"
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "Find Videos"
+
+#:Video Page "Videos Tagged"
+msgid "videos_tagged_X"
+msgstr "Videos Tagged ${tag}"

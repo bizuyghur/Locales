@@ -764,22 +764,27 @@ msgstr "កម្មវិធី​ផ្សាយ​ប្រចាំ​ថ្
 #:Video Page 'keywords'
 msgid "keywords"
 msgstr "ពាក្យ​គន្លឹះ"
+
 #:Video Page "Most Watched"
 msgid "most_watched"
 msgstr "វីដេអូ​ដែល​គេ​មើល​ច្រើន​ជាង​គេ"
+
 #:Video Page "Related Videos"
 msgid "related_videos"
 msgstr "វីដេអូ​ដែល​ទាក់ទង"
+
 #:Video Page "Recent Videos"
 msgid "recent_videos"
 msgstr "វីដេអូ​ថ្មីៗ"
+
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "រក​វីដេអូ"
+
 #:Video Page "Show More"
 msgid "show_more_v"
 msgstr "បង្ហាញ​ថែម​ទៀត"
 
 #:Video Page "Videos Tagged"
-msgid: "videos_tagged_X"
-msgstr: "វីដេអូ​ដែល​ទាក់ទង​នឹង %s"
+msgid "videos_tagged_X"
+msgstr "វីដេអូ​ដែល​ទាក់ទង​នឹង ${tag}"

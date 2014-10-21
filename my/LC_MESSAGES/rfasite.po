@@ -706,21 +706,27 @@ msgstr "Daily Broadcast"
 #:Video Page 'keywords'
 msgid "keywords"
 msgstr "ေသာ့ခ်က္ စကားလံုး"
+
 #:Video Page "Most Watched"
 msgid "most_watched"
 msgstr "အမ်ားဆံုးၾကည့္သည္"
+
 #:Video Page "Related Videos"
 msgid "related_videos"
 msgstr "ဆက္စပ္ ဗီဒီယို"
+
 #:Video Page "Recent Videos"
 msgid "recent_videos"
 msgstr "မၾကာခင္က ဗီဒီယိုမ်ား"
+
 #:Video Page search "Find Videos"
 msgid "find_videos"
 msgstr "ဗီဒီယို ရွာရန္"
+
 #:Video Page "Show More"
 msgid "show_more_v"
 msgstr "ပိုျပီးျပပါဦး"
+
 #:Video Page "Videos Tagged"
-msgid: "videos_tagged_X"
-msgstr: "အမ်ိဳးတူ ဗီဒီယို %s"
+msgid "videos_tagged_X"
+msgstr "အမ်ိဳးတူ ဗီဒီယို ${tag}"
