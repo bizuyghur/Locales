@@ -767,6 +767,7 @@ msgstr "يېڭى سىنلار"
 msgid "find_videos"
 msgstr "سىن تېپىش"
 #:Video Page "Videos Tagged"
-
 msgid "videos_tagged_X"
-msgstr "ئاچقۇچلۇق سۆز %s"
+msgstr "ئاچقۇچلۇق سۆز ${tag}"
+
+
