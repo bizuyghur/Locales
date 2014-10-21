@@ -807,5 +807,5 @@ msgid "show_more_v"
 msgstr "Xem thêm"
 #:Video Page "Videos Tagged"
 
-msgid: "videos_tagged_X"
-msgstr: "Tin ${tag}"
+msgid "videos_tagged_X"
+msgstr "Tin ${tag}"
