@@ -826,3 +826,22 @@ msgstr "提供新聞線索須知：發布前我們會審閱。注意：並非所
 #: Mobapp audioclips.xml
 msgid "daily_broadcast"
 msgstr "廣播節目存檔"
+
+#:Video Page 'keywords'
+msgid "keywords"
+msgstr "關鍵詞"
+#:Video Page "Most Watched"
+msgid "most_watched"
+msgstr "熱播視頻"
+#:Video Page "Related Videos"
+msgid "related_videos"
+msgstr "相關視頻"
+#:Video Page "Recent Videos"
+msgid "recent_videos"
+msgstr "最新視頻"
+#:Video Page search "Find Videos"
+msgid "find_videos"
+msgstr "查找視頻"
+#:Video Page "Videos Tagged"
+msgid "videos_tagged_X"
+msgstr "標簽視頻 ${tag}"
