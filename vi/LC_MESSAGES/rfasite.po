@@ -800,7 +800,7 @@ msgstr "Video mới nhất"
 
 #:Video Page search "Find Videos"
 msgid "find_videos"
-msgstr "Xem thêm"
+msgstr "Tìm video"
 
 #:Video Page "Show More"
 msgid "show_more_v"
